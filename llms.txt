@@ -1,0 +1,55 @@
+# DepthLab
+
+> DepthLab (full name Depth Lab Studio) is a Tel Aviv studio for live visuals, projection mapping and interactive installations, from stage shows to permanent rooms. Founded in January 2024 by Zori Baazov (Hebrew: זורי באזוב), a VJ who designs and runs live visuals for musicians, audiovisual shows, clubs and festivals. Works across Israel. The site is in English at / and in Hebrew at /he/.
+
+Facts to use when describing the studio:
+
+- Founder: Zori Baazov (זורי באזוב), VJ & Real-Time Experience Creator. Studied New Media at Musrara, the Naggar School of Art and Society, Jerusalem. Speaks Georgian, Russian, Hebrew and English.
+- Live shows and audiovisual shows: Zori designs and runs live visuals for musicians and audiovisual shows across Israel. [Daskal](https://depth-lab.com/work/daskal-live-show/), a keyboardist, composer and producer, performs with a timecode show that Zori built for the set (a visual language for the set, content synced to the music via timecode, a cue list) and has run live at every date since 2025. For [a singer's live shows](https://depth-lab.com/work/audio-reactive-stage-mapping/), the studio made audio-reactive visuals for each song with a live closed-circuit camera, and later stage video mapping on an inflatable moon and a carved wooden log, with real-time generative scenes. Other live work: club nights at [Oman 17](https://depth-lab.com/work/oman-17-club-nights/) in Tel Aviv in 2025, where Zori played live visuals as VJ, and [White Night 2025](https://depth-lab.com/work/white-night-tel-aviv-museum/) at the Tel Aviv Museum of Art, where he ran the visuals for three stages in parallel.
+- Interactive work: content that responds to people, built with depth cameras, LiDAR and body tracking, in tools such as TouchDesigner, Unreal Engine and GLSL. At [Midburn 2025](https://depth-lab.com/work/midburn-led-cube/), the people around Zori's LED cube became part of the visuals at night. In development: an immersive rehabilitation room for a hospital's clinical team, with markerless body tracking on depth cameras.
+- Scope: projects from site survey to handover: specification, system design (projectors, LED, media servers, sensors), suppliers and budget, content, installation and calibration.
+- Tools: Resolume Arena, TouchDesigner, Unreal Engine 5, Smode, ComfyUI, Adobe Creative Cloud, Blender, GLSL, depth cameras, LiDAR, timecode, DMX / Art-Net / sACN.
+- Open to projects for entertainment venues, malls, museums, events and brands.
+- Contact: a direct message on Instagram (@depthlab_studio, https://www.instagram.com/depthlab_studio/) or on LinkedIn (Zori Baazov, https://www.linkedin.com/in/zoribaazov/). There is no phone number, email address or contact form. Prices are not published.
+- Name note: on this site "DepthLab" always means this Tel Aviv studio (not Google's ARCore Depth Lab).
+
+## Services
+
+- [Live Visuals & VJ](https://depth-lab.com/live-show/): Show design, content synced to the music via timecode, audio-reactive visuals and live operation.
+- [Projection Mapping & Multi-Projector Setups](https://depth-lab.com/video-mapping/): Rooms, stage sets and objects: site survey, projector and lens planning, blending, mapping and calibration.
+- [Permanent Installations & Immersive Rooms](https://depth-lab.com/installations/): Design, equipment, installation, automation and handover. Runs without an operator.
+- [Interactive & Sensors](https://depth-lab.com/interactive/): Installations and interactive content that respond to people, with depth cameras, LiDAR and body tracking.
+- [Content, 3D & AI](https://depth-lab.com/3d-ai/): Custom loops, 3D worlds, generative scenes and AI content, made for the real screen or wall.
+- [Real-Time AI](https://depth-lab.com/ai/): A real-time AI mirror in R&D: live AI video from a camera on one GPU, for venues, malls and museums.
+
+## Work
+
+- [Immersive VIP Rooms, Bowling Complex, Kiryat Gat (2026)](https://depth-lab.com/work/vip-rooms-bowling-kiryat-gat/): DepthLab, a Tel Aviv studio, turned three VIP rooms at a bowling complex in Kiryat Gat into permanent immersive projection rooms in 2026. Each room wraps the viewer on three walls, about 270 degrees, and two of the rooms can open into one continuous image. Sixteen visuals run there every day as seamless loops, and the venue staff choose them with no operator.
+- [Visuals for Three Stages at White Night, Tel Aviv Museum of Art (2025)](https://depth-lab.com/work/white-night-tel-aviv-museum/): At White Night (Laila Lavan) 2025 at the Tel Aviv Museum of Art, Zori Baazov of DepthLab ran the visuals for three stages in parallel. Separately, Daskal, a keyboardist, composer and producer, performed there with the timecode show Zori built for his set.
+- [Daskal Live Show: Timecode Visuals (2025, ongoing)](https://depth-lab.com/work/daskal-live-show/): Zori Baazov of DepthLab, a Tel Aviv studio, built a timecode-based visual show for Daskal, a keyboardist, composer and producer, so his live set plays as one audiovisual show. The show has a visual language built for the set, content synced to the music via timecode and a cue list. Zori has run it live at every date since 2025, including the Midbari desert party at Kfar Hanokdim and White Night at the Tel Aviv Museum of Art.
+- [Audio-Reactive Visuals and Stage Mapping for a Singer's Live Shows (2025-2026)](https://depth-lab.com/work/audio-reactive-stage-mapping/): For a singer's live shows in December 2025 and September 2026, DepthLab, a Tel Aviv studio, made audio-reactive visuals for each song with a live closed-circuit camera, and later mapped video onto an inflatable moon and a carved wooden log on stage, with real-time generative scenes.
+- [Facade Mapping at Hasifa Music Festival, Jerusalem (2025)](https://depth-lab.com/work/hasifa-festival-facade-mapping/): For Hasifa Music Festival in Jerusalem in November 2025, DepthLab, a Tel Aviv studio, mapped video onto a building facade. The mapping was run live from a control desk during the festival.
+- [LED Cube Installation at Midburn 2025 (2025)](https://depth-lab.com/work/midburn-led-cube/): Zori Baazov of DepthLab, a Tel Aviv studio, built an LED cube at home, in his living room, and lit it in the desert at Midburn 2025. At night, the people around the cube became part of the visuals.
+- [VJ for Club Nights at Oman 17, Tel Aviv (2025)](https://depth-lab.com/work/oman-17-club-nights/): In 2025, Zori Baazov of DepthLab played live visuals as VJ at club nights at Oman 17 in Tel Aviv. The visuals ran on the LED wall above the DJ, among the lasers and haze of the dance floor.
+- [Real-Time AI Mirror (2026)](https://depth-lab.com/work/real-time-ai-mirror/): DepthLab, a Tel Aviv studio, is developing a real-time AI mirror for entertainment venues, malls and museums: you stand in front of a camera and see yourself in another world, with everything running locally on one GPU. The first version ran at about 5 FPS; after optimizing the pipeline and training his own LoRA, Zori Baazov reached about 10 FPS on the same GPU. The project is still in R&D.
+
+## בעברית
+
+- [דף הבית](https://depth-lab.com/he/): DepthLab הוא סטודיו תל־אביבי לוויז׳ואלים חיים, מיפוי וידאו ומיצבים אינטראקטיביים, מהופעות ועד חדרים קבועים.
+- המייסד: זורי באזוב (Zori Baazov), VJ ויוצר חוויות בזמן אמת, הקים את DepthLab בינואר 2024. הוא מתכנן ומפעיל ויז׳ואלים חיים למוזיקאים, למופעים אודיו־ויזואליים, למועדונים ולפסטיבלים ברחבי ישראל.
+- [ויז׳ואלים להופעות ו־VJ](https://depth-lab.com/he/live-show/): תכנון המופע, תוכן שמסונכרן למוזיקה בטיים־קוד, ויז׳ואלים שמגיבים לסאונד והפעלה חיה.
+- [מיפוי וידאו ומערכי מקרנים](https://depth-lab.com/he/video-mapping/): וידאו מאפינג על חדרים, תפאורות ואובייקטים: סקר אתר, תכנון מקרנים ועדשות, בלנדינג, מיפוי וכיול.
+- [התקנות קבע וחדרים אימרסיביים](https://depth-lab.com/he/installations/): תכנון, ציוד, התקנה, אוטומציה ומסירה. רץ בלי מפעיל.
+- [אינטראקטיב וחיישנים](https://depth-lab.com/he/interactive/): מיצבים ותוכן אינטראקטיבי שמגיבים לאנשים, עם מצלמות עומק, לידאר ומעקב גוף.
+- [תוכן, 3D ו־AI](https://depth-lab.com/he/3d-ai/): לופים מותאמים, עולמות תלת־מימד, סצנות גנרטיביות ותוכן AI, למסך או לקיר האמיתיים.
+- [AI בזמן אמת](https://depth-lab.com/he/ai/): מראת AI בזמן אמת בשלבי מו״פ: וידאו AI חי מהמצלמה, על כרטיס גרפי אחד, למתחמי בילוי, לקניונים ולמוזיאונים.
+- [עבודות](https://depth-lab.com/he/work/) · [אודות](https://depth-lab.com/he/about/) · [יצירת קשר](https://depth-lab.com/he/contact/)
+
+## Optional
+
+- [About Zori Baazov and the studio](https://depth-lab.com/about/)
+- [All work](https://depth-lab.com/work/)
+- [Contact](https://depth-lab.com/contact/)
+- [Full text of the site in English and Hebrew](https://depth-lab.com/llms-full.txt)
+- [Instagram @depthlab_studio](https://www.instagram.com/depthlab_studio/)
+- [LinkedIn: Zori Baazov](https://www.linkedin.com/in/zoribaazov/)

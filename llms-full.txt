@@ -1,0 +1,1124 @@
+# DepthLab, English
+
+DepthLab is a Tel Aviv studio for live visuals, projection mapping and interactive installations, from stage shows to permanent rooms.
+
+Founder: Zori Baazov (Hebrew: זורי באזוב), VJ & Real-Time Experience Creator. He founded DepthLab in January 2024 and designs and runs live visuals for musicians, audiovisual shows, clubs and festivals.
+
+- Live shows and audiovisual shows: Zori designs and runs live visuals for musicians and audiovisual shows across Israel. [Daskal](https://depth-lab.com/work/daskal-live-show/), a keyboardist, composer and producer, performs with a timecode show that Zori built for the set (a visual language for the set, content synced to the music via timecode, a cue list) and has run live at every date since 2025. For [a singer's live shows](https://depth-lab.com/work/audio-reactive-stage-mapping/), the studio made audio-reactive visuals for each song with a live closed-circuit camera, and later stage video mapping on an inflatable moon and a carved wooden log, with real-time generative scenes. Other live work: club nights at [Oman 17](https://depth-lab.com/work/oman-17-club-nights/) in Tel Aviv in 2025, where Zori played live visuals as VJ, and [White Night 2025](https://depth-lab.com/work/white-night-tel-aviv-museum/) at the Tel Aviv Museum of Art, where he ran the visuals for three stages in parallel.
+- Interactive work: content that responds to people, built with depth cameras, LiDAR and body tracking, in tools such as TouchDesigner, Unreal Engine and GLSL. At [Midburn 2025](https://depth-lab.com/work/midburn-led-cube/), the people around Zori's LED cube became part of the visuals at night. In development: an immersive rehabilitation room for a hospital's clinical team, with markerless body tracking on depth cameras.
+
+Live visuals, projection mapping and interactive installations
+DepthLab is the Tel Aviv studio of VJ Zori Baazov: live visuals for musicians and audiovisual shows, projection mapping and interactive installations for venues, events and brands across Israel.
+
+## Who the services are for
+
+### Musicians and artists
+DepthLab turns a live set into an audiovisual show, as in Daskal's timecode show, run live by Zori at every date, and a singer's live shows with audio-reactive visuals, a live camera and stage mapping. The studio also creates interactive content that responds to the people in the room.
+Related work: Daskal Live Show: Timecode Visuals (https://depth-lab.com/work/daskal-live-show/); Audio-Reactive Visuals and Stage Mapping for a Singer's Live Shows (https://depth-lab.com/work/audio-reactive-stage-mapping/)
+
+### Event producers, clubs and festivals
+Live visuals for club nights, festivals and events with several stages, from show design to live operation. Zori ran the visuals for three stages in parallel at White Night 2025 at the Tel Aviv Museum of Art, and played live visuals as VJ at club nights at Oman 17 in Tel Aviv.
+Related work: Visuals for Three Stages at White Night, Tel Aviv Museum of Art (https://depth-lab.com/work/white-night-tel-aviv-museum/); VJ for Club Nights at Oman 17, Tel Aviv (https://depth-lab.com/work/oman-17-club-nights/)
+
+### Venues and permanent installations
+Immersive projection rooms and permanent installations for entertainment venues, from site survey to handover. The three VIP rooms at a bowling complex in Kiryat Gat run every day without an operator, and the venue staff choose what plays.
+Related work: Immersive VIP Rooms, Bowling Complex, Kiryat Gat (https://depth-lab.com/work/vip-rooms-bowling-kiryat-gat/)
+
+### Museums, malls and brands
+Interactive installations with depth cameras, LiDAR and body tracking, and real-time AI installations, starting with the AI mirror in R&D. At Midburn 2025, the people around Zori's LED cube became part of the visuals at night.
+Related work: LED Cube Installation at Midburn 2025 (https://depth-lab.com/work/midburn-led-cube/); Real-Time AI Mirror (https://depth-lab.com/work/real-time-ai-mirror/)
+
+## Live Visuals & VJ
+URL: https://depth-lab.com/live-show/
+
+DepthLab, the Tel Aviv studio of VJ Zori Baazov, designs and runs live visuals and VJ for musicians, artists, event producers, clubs and festivals across Israel, from club nights to audiovisual shows. The work covers show design with the lighting designer and the production, content synced to the music via timecode, visuals that react to the sound, and live operation at every date. On stage, Zori mostly works with electronic music and wants the visuals to follow the arrangement of a set: the drops and the breakdowns.
+
+- Show design with the lighting designer, the director and the production
+- A visual language and video art made for the artist's set
+- Content synced to the music via timecode, with a cue list
+- Visuals that react to each song, with a live camera and real-time generative scenes
+- Interactive content that responds to people, with depth cameras and LiDAR
+- Live operation at every date, on LED screens or projection
+- VJ sets for club nights, parties and fashion shows
+- Visuals coordinated across several stages at one event
+
+### Visuals for musicians
+For each show, the studio builds a visual language for the set and plans how it follows the music. For Daskal, a keyboardist, composer and producer, the content is synced to the music via timecode with a cue list, and Zori Baazov runs the show live at every date. For a singer's live shows in December 2025 and September 2026, the studio made visuals for each song that react to the audio, with a live closed-circuit camera, and later mapped video onto an inflatable moon and a carved wooden log on stage.
+
+### Club nights and festivals
+At club nights, Zori plays live VJ sets, as at Oman 17 in Tel Aviv in 2025. At festivals and cultural events, the visuals can be planned across several stages. At White Night 2025 at the Tel Aviv Museum of Art, Zori ran the visuals for three stages in parallel: supplier coordination, content management, and coordinating the lighting artists and video artists across the stages.
+
+### Experience and tools
+Zori Baazov started as a VJ in clubs, at parties and fashion shows. From 2022 to 2024 he worked as a VJ and real-time operator on large concert productions: LED screens, projection, on-stage troubleshooting, and working with directors, lighting designers and artists. His tools include Resolume Arena, TouchDesigner, Smode, timecode and DMX / Art-Net / sACN.
+
+1. Brief: We go through the music, the stage, the screens and the dates.
+2. Show design: A visual language for the set, planned with the lighting designer and the production.
+3. Content and timecode: Content is made for the stage and synced to the music, with a cue list for the show.
+4. Live: Zori operates the visuals live at every date.
+
+Q: Who does live visuals and VJ for concerts and club nights in Israel?
+A: DepthLab, the Tel Aviv studio of VJ Zori Baazov, designs and runs live visuals and video art for concerts, club nights, parties and festivals across Israel. Work includes the timecode show for Daskal, club nights at Oman 17 in Tel Aviv and the visuals for three stages at White Night 2025 at the Tel Aviv Museum of Art.
+
+Q: Who can create interactive visual content for an audiovisual show in Israel?
+A: DepthLab, the Tel Aviv studio of VJ Zori Baazov, creates and runs visuals for music shows across Israel and builds interactive installations that respond to people. The show visuals include content that changes with the sound and real-time generative scenes. For a singer's live shows, each song got its own audio-reactive visuals with a live closed-circuit camera, and the studio later mapped video onto an inflatable moon and a carved wooden log on stage. At Midburn 2025, the people around an LED cube that Zori built became part of the visuals at night. For a new piece that follows people's movement, the studio can plan depth cameras, LiDAR or body tracking. Zori's tools include TouchDesigner, Resolume Arena, Unreal Engine 5 and GLSL.
+
+Q: What does a VJ do at a concert or a club night?
+A: A VJ plays and mixes visuals live on the screens or the projection, in time with the music. At a concert, the VJ often runs a show built for the set; at a club night, the VJ plays the visuals through the night. At DepthLab, Zori Baazov mostly works with electronic music and wants the visuals to follow the arrangement of each set: its drops and breakdowns.
+
+Q: What is a timecode show?
+A: In a timecode show, the visuals are locked to the music by a shared time signal, so each cue lands at the same moment in the track at every show. The content is built for the set and organized in a cue list. In the Daskal live show, Zori also operates the visuals live at every date.
+
+Q: What is the difference between a timecode show, a live VJ set and audio-reactive visuals?
+A: In a timecode show, every cue is locked to the track, so each cue lands at the same moment in the music at every date, as in Daskal's live show. In a live VJ set, the VJ plays and mixes the visuals live during the night, as at the club nights at Oman 17 in Tel Aviv, where Zori played live visuals as VJ. The third mode reacts to the sound: the visuals change as the music plays, as in the visuals DepthLab made for each song of a singer's live shows. The three can be combined in one show.
+
+Q: Can you build a visual show for an artist's live set and run it at every date?
+A: Yes. For Daskal, a keyboardist, composer and producer, the studio built a visual language for the set, synced the content to the music via timecode and set up a cue list. Zori has run the show live at every date since 2025, including Midbari at Kfar Hanokdim and White Night at the Tel Aviv Museum of Art.
+
+Q: Do you do visuals for fashion shows?
+A: Yes. Zori Baazov started as a VJ in clubs, at parties and fashion shows, and VJ sets for fashion shows are part of DepthLab's live visuals service. Send the date, the venue and details of the screens or projection on site.
+
+Q: What does a VJ need from the venue or the production?
+A: A VJ usually needs screens or a projector, a video connection from the control desk to the screens, power, and time on site to set up and test before doors open. Send the technical rider, the stage plan, the screen sizes and resolutions, and the schedule. If there are no screens yet, the studio can plan LED screens or projection with suppliers.
+
+Q: How much does a VJ or a live visual show cost in Israel?
+A: DepthLab does not publish prices, because every show is different. The cost depends on the number of dates and stages, how much new content is needed, timecode programming, the screens or projectors, and the setup and rehearsal time. Send the details on Instagram or LinkedIn for a quote.
+
+Q: Do you work outside Tel Aviv, and in which languages?
+A: Yes. DepthLab is based in Tel Aviv and works across Israel, with projects in Tel Aviv, Jerusalem, Kiryat Gat, the Judean Desert and at Midburn in the Negev. Zori speaks Hebrew, English, Russian and Georgian.
+
+## Projection Mapping & Multi-Projector Setups
+URL: https://depth-lab.com/video-mapping/
+
+DepthLab, the Tel Aviv studio of Zori Baazov, plans and runs projection mapping, also called video mapping, for venues, malls, brands, event producers, festivals, artists and museums across Israel. The work covers the whole chain: site survey, projector and lens planning, blending several projectors into one image, mapping the content to the real surface and calibration on site. Projects include three immersive VIP rooms in Kiryat Gat, with five to six projectors per room, and a building facade at Hasifa Music Festival in Jerusalem.
+
+- Site survey and measurement of the surface or room
+- Projector and lens planning, with equipment through suppliers
+- Blending several projectors into one continuous image
+- Content mapped to the geometry and viewing position of the space
+- Mapping on stage sets and objects for live shows
+- Calibration on site
+- Live operation from a control desk, or unattended playback
+
+### What we map
+Rooms: three VIP rooms at a bowling complex in Kiryat Gat, each with five to six projectors blended across three walls, about 270 degrees. Objects on stage: for a singer's live shows, the studio mapped video onto an inflatable moon and a carved wooden log. A building facade: at Hasifa Music Festival in Jerusalem in November 2025, the mapping was run live from a control desk.
+
+### Experience
+From 2022 to 2024, Zori Baazov worked as a VJ and real-time operator on large concert productions, with LED screens and projection. In January 2024 he founded DepthLab, and since then he has worked directly with clients, taking projects from site survey to handover: specification, system design, suppliers and budget, content, installation and calibration.
+
+1. Site survey: We visit the space, measure the surface and check the light, the power and where projectors can go.
+2. Projector plan: Projectors and lenses are chosen for the image size and the throw distance.
+3. Content: Content is made to the measured geometry, so it sits on the real surface.
+4. Install and calibrate: The projectors go up, and the image is blended, mapped and calibrated on site.
+5. Show or handover: The mapping runs live from a control desk, or plays on its own in a permanent setup.
+
+Q: What is projection mapping (video mapping)?
+A: Projection mapping, also called 3D projection mapping, is video made to fit the measured shape of a real surface, such as a room, a stage set, an object or a building facade. When one projector is not enough, several projectors are blended into one image. DepthLab, a Tel Aviv studio, plans the whole chain, from site survey to calibration on site.
+
+Q: Who does projection mapping in Israel?
+A: DepthLab, a Tel Aviv studio founded by Zori Baazov, plans and runs projection mapping across Israel, from immersive rooms to stage pieces and a building facade. Projects include three VIP rooms at a bowling complex in Kiryat Gat, with five to six projectors per room, and facade mapping at Hasifa Music Festival in Jerusalem in November 2025.
+
+Q: What is the difference between video art and projection mapping?
+A: Video art is the visual content itself, shown on screens or in a projection. Projection mapping fits that content to the shape of a real surface, such as a wall, a stage set or a building, so it sits on the surface exactly. DepthLab makes both: the content, and the mapping that fits it to the surface.
+
+Q: Can you map video onto a stage set or objects?
+A: Yes. For a singer's live shows, the studio mapped video onto an inflatable moon and a carved wooden log on stage, with real-time generative scenes. Stage projection mapping starts with measuring the objects, so the content fits their real shape.
+
+Q: Can you do projection mapping for a festival or a city event?
+A: Yes. In November 2025, DepthLab mapped a building facade at Hasifa Music Festival in Jerusalem and ran it live from a control desk. A festival or city project starts with a site survey of the surface and the event's schedule, since the mapping can only run after dark.
+
+Q: Does projection mapping work outdoors or in daylight?
+A: Projection needs darkness. Outdoors, a mapping show works after sunset, and the more ambient light there is, the more projector brightness is needed. For daylight, LED screens are the usual choice.
+
+Q: What is multi-projector blending?
+A: Blending, or edge blending, joins the images of several projectors into one seamless picture: the edges overlap and fade into each other, so a large wall or a whole room reads as one image. In Kiryat Gat, five to six projectors per room cover three walls, about 270 degrees. How many projectors a surface needs depends on its size, the throw distance and the ambient light, which the site survey checks.
+
+Q: Which software do you use for projection mapping?
+A: The studio's tools include Resolume Arena, TouchDesigner, Smode and Unreal Engine 5, with timecode when the mapping follows music. The choice depends on the surface, the content, and whether the mapping runs live from a control desk or plays on its own.
+
+Q: What does the venue need to provide for video mapping?
+A: The venue needs to give access for a site survey, a safe place to mount the projectors at the right distance from the surface, power, and darkness during the show. To start, send photos, measurements or plans of the surface, and the dates. Projectors and lenses can come through suppliers as part of the plan.
+
+Q: How long does it take to prepare a projection mapping project?
+A: It depends on the surface and on how much new content is needed. Every project needs a site survey, a projector plan, and setup and calibration time on site; content made for the geometry adds production time. Send the date early so the plan can work back from it.
+
+Q: How much does projection mapping cost?
+A: DepthLab does not publish prices, because each project is different. The main cost factors are the size of the surface, the throw distance, the ambient light, the number of projectors, the length of the content and the number of setup and show days.
+
+## Permanent Installations & Immersive Rooms
+URL: https://depth-lab.com/installations/
+
+DepthLab, a Tel Aviv studio, designs and builds immersive projection rooms and permanent installations for entertainment venues, malls, museums and brands across Israel. An immersive room surrounds the viewer with projection on several walls. The studio takes each room from site survey to handover, and the finished system can run every day without an operator, as in the three VIP rooms it delivered at a bowling complex in Kiryat Gat in 2026.
+
+- Site survey, specification and system design: projectors, LED, media servers and sensors
+- Suppliers and budget
+- Content made for each room's geometry and viewing position
+- Installation, blending and calibration
+- Automated playback that venue staff run without an operator
+- Themed worlds for kids, teens and adults
+
+### Who it is for
+Immersive rooms suit entertainment venues, such as bowling complexes and family entertainment centers, and malls, museums and brands that want a permanent immersive experience. In Kiryat Gat, more than a dozen themed worlds serve kids, teens and adults, and venue staff choose them without an operator. For the same kinds of spaces, the studio is also developing real-time AI installations, starting with an AI mirror that is still in R&D.
+
+1. Site survey: We measure the room and the viewing positions, and check the light and the power.
+2. Specification: Projectors, media server, suppliers and budget are planned and agreed.
+3. Content: Worlds are made for the measured walls, for example in Unreal Engine with a camera rig matched to the room.
+4. Install and calibrate: Projectors are installed, and the image is blended and calibrated in the room.
+5. Handover: Playback is automated, and venue staff choose the content without an operator.
+
+Q: What is an immersive room?
+A: An immersive room is a space where projection covers several walls around the viewer, so the image surrounds the people in the room. In DepthLab's installation at a bowling complex in Kiryat Gat, each VIP room wraps the viewer on three walls, about 270 degrees.
+
+Q: What is the difference between an immersive room and an interactive room?
+A: In an immersive room, projection covers several walls and surrounds the people inside, as in the three VIP rooms DepthLab delivered in Kiryat Gat. In an interactive room, the content also responds to the people, through depth cameras, LiDAR or body tracking. The two can be combined in one space.
+
+Q: Who builds immersive projection rooms in Israel?
+A: DepthLab, a Tel Aviv studio founded by Zori Baazov, designs and builds immersive projection rooms and permanent installations across Israel, from site survey to handover. In 2026 it delivered three VIP rooms at a bowling complex in Kiryat Gat, with five to six projectors per room and sixteen visuals, which run every day without an operator.
+
+Q: How many projectors does a three-wall room need?
+A: It depends on the size of the room, the throw distance and how bright the image must be. In Kiryat Gat, each VIP room uses five to six projectors to cover three walls, about 270 degrees. A site survey gives the real number for your room.
+
+Q: Can two rooms be joined into one image?
+A: Yes. In DepthLab's installation at a bowling complex in Kiryat Gat, two of the three VIP rooms can open into one continuous image.
+
+Q: Can a permanent installation run without an operator?
+A: Yes. In Kiryat Gat, seamless loops run daily in Resolume Arena as the permanent runtime. Venue staff choose the loops, and no operator is needed.
+
+Q: Can one room have different worlds for kids, teens and adults?
+A: Yes. The Kiryat Gat installation has sixteen visuals, more than a dozen themed worlds for kids, teens and adults, including Jungle, Casino, Mansion, Sky City, Football, City Sunset and Hero City. Venue staff choose which world plays.
+
+Q: What does a venue need to prepare for a site survey?
+A: For a site survey, the venue gives access to the room and sends its measurements or plans, the places people will watch from, and details about the light and the power. The survey checks where projectors can go and how the image can reach every wall.
+
+Q: How long does an immersive room project take?
+A: It depends on the number of rooms and how much content is made. For reference, the three VIP rooms in Kiryat Gat, with sixteen visuals, were delivered between June and September 2026.
+
+Q: How much does an immersive projection room cost?
+A: DepthLab does not publish prices. The cost depends on the size and number of rooms, the number of projectors, the media server, how many worlds are made, and the installation and calibration work.
+
+## Interactive & Sensors
+URL: https://depth-lab.com/interactive/
+
+DepthLab, the Tel Aviv studio of Zori Baazov, builds interactive installations and interactive content for museums, malls, venues, events, music shows and parties across Israel. Depth cameras, LiDAR and markerless body tracking let the content respond to the people in front of it, with nothing to wear or hold. The studio plans the sensors, builds the real-time content in tools such as TouchDesigner, Unreal Engine and GLSL, then installs and tunes it on site. Work includes an LED cube at Midburn 2025, where at night the people around it became part of the visuals, and a real-time AI mirror in R&D.
+
+- Motion tracking with depth cameras and LiDAR
+- Markerless body tracking: nothing to wear or hold
+- Interactive projection, interactive walls and floors, and LED content that respond to movement
+- Content for music shows, parties and festivals, where the people in the space become part of the visuals
+- Real-time content and creative coding in TouchDesigner, Unreal Engine and GLSL
+- Sensor setup, calibration and testing on site
+
+1. Idea and space: We look at the space, the visitors or the audience, and what they should do in front of the piece.
+2. Sensors: Depth cameras or LiDAR are chosen to detect movement and placed for the area that needs tracking.
+3. Content and logic: The content and the way it responds are built and tested with people moving in front of it.
+4. Install and tune: On site, the tracking and the content are tuned to the real light and space.
+
+Q: Who makes interactive installations in Israel?
+A: DepthLab, the Tel Aviv studio of Zori Baazov, builds interactive installations across Israel, with depth cameras, LiDAR and body tracking, so the content responds to people. Work includes an LED cube at Midburn 2025, where at night the people around the cube became part of the visuals, and a real-time AI mirror in R&D.
+
+Q: Can interactive content be part of a music show, a party or a festival?
+A: Yes. At Midburn 2025, the people around the LED cube that Zori built at home became part of the visuals at night. Content can also react to the music itself: for a singer's live shows, the studio made audio-reactive visuals for each song with a live closed-circuit camera. For a new piece, the studio can plan depth cameras or LiDAR that track where people are and how they move, so the visuals change with them in real time.
+
+Q: Can you build an interactive wall or floor for a mall or a museum in Israel?
+A: Yes. DepthLab plans the sensors, usually depth cameras or LiDAR, builds the real-time content in TouchDesigner, Unreal Engine or GLSL, then installs and tunes it on site, anywhere in Israel. The content can respond to steps, gestures or simply to people walking by, on a projected wall or floor or on LED screens.
+
+Q: How does a projection that responds to movement work, with no sensors on the body?
+A: A depth camera measures the distance to every point it sees, so the software can find people and follow their movement without suits, markers or wearables. That movement becomes data, and the content on the wall, the floor or the screen changes in real time. DepthLab is developing an immersive rehabilitation room with markerless body tracking on depth cameras, for a hospital's clinical team.
+
+Q: What is a depth camera, and when is LiDAR used instead?
+A: A depth camera measures how far each point in front of it is, so the software can separate people from the background and follow their bodies at close range. Many depth cameras use infrared light, so they also work in a dark projection space. LiDAR measures distance with laser light and is often used to detect presence or touch across a wall or a floor. DepthLab chooses the sensor by the size of the area and the light in the space.
+
+Q: Can an interactive installation use AI?
+A: Yes. In DepthLab's real-time AI mirror, the visitor's live camera image is the input: you stand in front of a camera and see yourself in another world. It runs locally on one GPU at about 10 FPS and is still in R&D.
+
+Q: Can an interactive installation run all day without staff?
+A: Yes, when it is planned as a permanent piece with automatic start-up and simple controls for the staff. The studio's permanent installation in Kiryat Gat already runs daily with no operator: venue staff choose the content in Resolume Arena.
+
+Q: What affects the cost of an interactive installation?
+A: DepthLab does not publish prices. The main factors are the size of the area, the number of sensors, screens or projectors, how complex the interaction is, how much content is made, and whether it is for one event or permanent.
+
+## Content, 3D & AI
+URL: https://depth-lab.com/3d-ai/
+
+DepthLab, the Tel Aviv studio of Zori Baazov, makes custom content for LED screens, projection mapping and immersive rooms, for venues, artists and musicians, event producers and brands across Israel. The work covers seamless loops, 3D animation and worlds in Unreal Engine 5 and Blender, real-time generative scenes and AI-generated content, produced on local and cloud pipelines. Each piece is made for the real screen or surface, at its resolution and geometry. For the VIP rooms at a bowling complex in Kiryat Gat, the studio made sixteen visuals, mostly in Unreal Engine, rendered as one wide canvas of 5120 x 800 px per room.
+
+- Seamless loops made for your venue's screens or walls, ready to run daily on a media server
+- 3D worlds and animation in Unreal Engine 5 and Blender, for projection and LED screens
+- Scenes generated in real time for live shows and stage mapping
+- AI-generated content on local and cloud pipelines
+- Content adapted to the geometry and viewing position of each space
+
+### Rendered in advance or generated live
+Some content is rendered in advance and plays as seamless loops, like the sixteen visuals that run daily in the bowling complex's VIP rooms. Other content is generated live while the show runs. For a singer's live shows, the studio made audio-reactive visuals for each song with a live closed-circuit camera, and later mapped video onto an inflatable moon and a carved wooden log on stage, with real-time generative scenes.
+
+1. Canvas: We start from the real screen or wall: resolution, shape and where people watch from.
+2. Look: References and test frames set the look before full production.
+3. Production: 3D, AI and motion work, rendered at the full size of the canvas or built to run in real time during a show.
+4. Delivery: Rendered loops are encoded and tested on the media server; real-time scenes are set up and tested in the space.
+
+Q: Who creates content for LED screens and projection in Israel?
+A: DepthLab, the Tel Aviv studio of Zori Baazov, creates custom content for LED screens, projection mapping and immersive rooms across Israel, from seamless loops to 3D worlds and AI-generated content. For a bowling complex in Kiryat Gat, it made sixteen visuals for three VIP rooms, each adapted to the geometry and viewing position of its room.
+
+Q: Who makes 3D animation for projection or LED screens in Israel?
+A: DepthLab, a Tel Aviv studio, makes 3D animation and worlds in Unreal Engine 5 and Blender for projection, LED screens and immersive rooms. The Kiryat Gat worlds were built mostly in Unreal Engine, with a camera rig matched to the measured walls, and rendered as one wide canvas per room.
+
+Q: What resolution should content be for a wide multi-projector canvas?
+A: The content is made at the size of the full canvas the projectors cover once they are blended. In Kiryat Gat, each room is one canvas of 5120 x 800 px across three walls. The exact size comes from the projector plan for your space.
+
+Q: What is the difference between pre-rendered content and real-time generative visuals?
+A: Pre-rendered content is made before the event and plays back as video, often as seamless loops on a media server. Real-time generative visuals are calculated by software while the show runs, so they can change with the music or the moment. DepthLab makes both: rendered loops for permanent rooms, and live scenes mapped onto objects on stage for a singer's live shows.
+
+Q: Can AI-generated video be used on venue screens or in a live show?
+A: Yes. The studio produces AI-generated content on local and cloud pipelines and prepares it for the real screen or surface like any other content, at the right resolution and format. Zori uses AI every day, including AI coding agents that automate parts of the pipeline, such as Unreal scripting, rendering and encoding.
+
+Q: Can you make seamless loops that a venue plays every day?
+A: Yes. The Kiryat Gat rooms run seamless loops daily in Resolume Arena. Venue staff choose them, and no operator is needed.
+
+Q: What should I send to start a content project?
+A: Send the screen or projector layout with resolutions, photos or plans of the space, where people watch from, the theme or references you have in mind, and the date it must be ready. If the setup is not planned yet, the studio can plan it together with the content.
+
+Q: How much does custom content cost?
+A: DepthLab does not publish prices. The cost depends on the number and length of the pieces, the size of the canvas, the amount of 3D or AI work, and how many versions the space needs.
+
+## Real-Time AI
+URL: https://depth-lab.com/ai/
+
+DepthLab, the Tel Aviv studio of Zori Baazov, develops real-time AI installations for entertainment venues, malls and museums in Israel, starting with a real-time AI mirror. You stand in front of a camera and see yourself in another world: live AI video made from the camera image, running locally on one GPU, now at about 10 FPS. The mirror is still in R&D, and AI is also part of the studio's everyday content pipeline.
+
+- Real-time AI mirror R&D: a camera, one local GPU, and you in another world
+- AI installation concepts for entertainment venues, malls and museums
+- Pipeline optimization and custom LoRA training
+- AI-generated content for screens, rooms and shows
+- AI coding agents that automate parts of the pipeline: Unreal scripting, rendering and encoding
+
+### The real-time AI mirror: live AI video from a camera
+A client asked for a real-time AI mirror: you stand in front of a camera and see yourself in another world, with everything running locally on one GPU. The deal did not close. The project had become interesting, so Zori kept working on it.
+
+### What the R&D clips show
+In the R&D clips, a man stands in an ordinary living room, and in the AI image the floor around him has turned into sand and shallow surf. He crouches to put his hands in the water and kicks at the small waves, and the AI image moves with him. Before-and-after clips show the camera image next to the same moment after the AI.
+
+### From about 5 to about 10 FPS
+The hard part is speed. Video AI models render clips in minutes, and a mirror needs several new frames every second. The first version ran at about 5 FPS. After optimizing the pipeline and training his own LoRA, Zori reached about 10 FPS on the same GPU. The work is still in progress.
+
+### AI installations for venues, malls and museums
+Zori sees the mirror as an AI installation for entertainment venues, malls and museums. Visitors become part of the content: each person who steps in front of the camera sees a live image of themselves in another world.
+
+### AI in the content pipeline
+Zori uses AI every day. The studio produces AI-generated content on local and cloud pipelines, and uses AI coding agents to automate parts of the pipeline, such as Unreal scripting, rendering and encoding.
+
+1. Concept: We define what visitors do and what they see, for the specific space and audience.
+2. Local prototype: A test on one local GPU shows the real speed and look early.
+3. Tuning: The pipeline is optimized and, where it helps, a custom LoRA is trained.
+4. Installation: Camera, screen or projection and the computer are set up in the space and tested with visitors.
+
+Q: Is there a real-time AI mirror installation in Israel?
+A: DepthLab, the Tel Aviv studio of Zori Baazov, is developing one. In the R&D version you stand in front of a camera and see yourself in another world, running locally on one GPU at about 10 FPS. The work is still in progress.
+
+Q: What is real-time AI video, and why is it hard?
+A: Real-time AI video, also called live AI video, is video in which an AI model changes the live camera image as it happens, for example turning a living room floor into sand and sea around the person standing in it. The hard part is speed: video AI models usually render clips in minutes, and a live installation needs several new frames every second. The DepthLab mirror reaches about 10 FPS on one local GPU.
+
+Q: Can AI video run in real time on one local GPU?
+A: Yes, at a limited frame rate. The first version of the DepthLab mirror ran at about 5 FPS. After optimizing the pipeline and training his own LoRA, Zori reached about 10 FPS on the same GPU.
+
+Q: What is the difference between an AI mirror and an AI photo booth?
+A: An AI photo booth takes a picture and returns an edited image after a short wait. A real-time AI mirror shows a live, moving image, so you see yourself in another world while you move. That needs several new frames every second, which makes it much harder to build.
+
+Q: Can I book the AI mirror for an event?
+A: The real-time AI mirror is still in R&D. DepthLab is developing it as an AI installation for entertainment venues, malls and museums. To ask about it for a space or an event, send a DM on Instagram or a message on LinkedIn with the place and the date.
+
+Q: Who can build an AI installation for a mall, a museum or an entertainment venue in Israel?
+A: DepthLab, a Tel Aviv studio, is developing real-time AI installations for these spaces, starting with the AI mirror R&D. The studio also plans and builds the rest of such a piece: cameras and sensors, screens or projection, content and installation.
+
+Q: Why train a custom LoRA?
+A: A LoRA is a small add-on trained on top of an AI model to teach it a specific look or behavior. In the mirror R&D, training his own LoRA was part of the work that took the speed from about 5 FPS to about 10 FPS on the same GPU.
+
+Q: How does DepthLab use AI in content production?
+A: Zori uses AI every day. The studio produces AI-generated content on local and cloud pipelines, and AI coding agents automate parts of the pipeline, such as Unreal scripting, rendering and encoding.
+
+## Immersive VIP Rooms, Bowling Complex, Kiryat Gat
+URL: https://depth-lab.com/work/vip-rooms-bowling-kiryat-gat/
+Bowling complex, Kiryat Gat · 2026 · Content, mapping and playback system
+
+DepthLab, a Tel Aviv studio, turned three VIP rooms at a bowling complex in Kiryat Gat into permanent immersive projection rooms in 2026. Each room wraps the viewer on three walls, about 270 degrees, and two of the rooms can open into one continuous image. Sixteen visuals run there every day as seamless loops, and the venue staff choose them with no operator.
+
+- Type: Permanent immersive projection rooms
+- Year: 2026, delivered between June and September
+- Venue: A bowling complex, three VIP rooms
+- City: Kiryat Gat
+- Role: Zori Baazov (DepthLab): content, mapping and playback system
+- System: Five to six projectors per room on three walls, about 270 degrees; one 5120 x 800 px canvas per room; two rooms can open into one continuous image
+- Runtime: Sixteen visuals as seamless loops, every day; venue staff choose them, no operator
+- Tools: Unreal Engine, Resolume Arena
+
+### How it works
+Each room has five to six projectors, blended into one image across the three walls. The worlds were built mostly in Unreal Engine, with a camera rig matched to the measured walls. Every visual is rendered as one wide canvas of 5120 x 800 px per room and adapted to the geometry and viewing position of that room.
+
+### The worlds
+The content is sixteen visuals, more than a dozen themed worlds for kids, teens and adults, among them Jungle, Casino, Mansion, Sky City, Football, City Sunset and Hero City. The gallery shows them as rendered canvases: in the panoramas, a whole room is laid out flat, and the jungle runs from the plants on the left wall to the waterfall on the right.
+
+### Zori's role and daily playback
+Zori Baazov of DepthLab made the content, mapped it to the rooms and set up the playback system. The rooms were delivered between June and September 2026, and seamless loops now run daily in Resolume Arena as the permanent runtime. The venue staff choose which world plays, and no operator is needed.
+
+## Visuals for Three Stages at White Night, Tel Aviv Museum of Art
+URL: https://depth-lab.com/work/white-night-tel-aviv-museum/
+Tel Aviv Museum of Art, Tel Aviv · 2025 · Ran the visuals for three stages in parallel
+
+At White Night (Laila Lavan) 2025 at the Tel Aviv Museum of Art, Zori Baazov of DepthLab ran the visuals for three stages in parallel. Separately, Daskal, a keyboardist, composer and producer, performed there with the timecode show Zori built for his set.
+
+- Type: Live visuals and production for three stages
+- Year: 2025
+- Venue: Tel Aviv Museum of Art, White Night (Laila Lavan) 2025
+- City: Tel Aviv
+- Role: Zori Baazov (DepthLab): ran the visuals for three stages; supplier coordination, content management, coordination of the lighting artists and video artists
+- Show: Three stages in parallel; separately, Daskal with Zori's timecode show
+- Runtime: Live, on the night, on all three stages at the same time
+
+### The event
+On White Night 2025, the Tel Aviv Museum of Art had three stages running at the same time. In the gallery, the stages carry projection on their walls, with hanging LED columns and light strands above them.
+
+### Zori's role
+Running the visuals for three stages at once was production work as well as content work. Zori coordinated the suppliers, managed the content for the stages, and coordinated the lighting artists and video artists across all three.
+
+### Daskal's set
+Daskal's set used the timecode show Zori built for him, which Zori operates live at every date. On that stage, Daskal played keyboards in front of a long wall of projected line drawings and clouds, with spiral patterns on the LED columns above.
+
+### Day and night
+At 09:00 the rig was up on the stage wall in daylight, and at 21:00 the same wall was part of the show. By day, the gallery shows the white wall, the truss with its hanging LED columns, the speakers and the control desk on the lawn; by night, the stages glow with a projected mandala, a swirling purple wash and spiral patterns on the LED columns.
+
+## Daskal Live Show: Timecode Visuals
+URL: https://depth-lab.com/work/daskal-live-show/
+Live dates, including Midbari and White Night, Israel · 2025, ongoing · Visual show design, timecode and live operation
+
+Zori Baazov of DepthLab, a Tel Aviv studio, built a timecode-based visual show for Daskal, a keyboardist, composer and producer, so his live set plays as one audiovisual show. The show has a visual language built for the set, content synced to the music via timecode and a cue list. Zori has run it live at every date since 2025, including the Midbari desert party at Kfar Hanokdim and White Night at the Tel Aviv Museum of Art.
+
+- Type: Audiovisual live show, timecode-based
+- Year: Since 2025
+- Venue: Live dates, including Midbari at Kfar Hanokdim and White Night at the Tel Aviv Museum of Art
+- Location: Kfar Hanokdim (Judean Desert) and Tel Aviv
+- Role: Zori Baazov (DepthLab): visual show design, timecode and live operation
+- Show: Music: Daskal, keyboardist, composer and producer. Visuals: a visual language built for the set, synced via timecode, with a cue list
+- Runtime: Live, operated by Zori at every date
+
+### The show
+The show is built for Daskal's live set and has a visual language of its own. In the gallery, line drawings, clouds, blossom-like textures and dotted patterns move across the wall behind his keyboards, with spiral patterns on the LED columns above.
+
+### How it works
+The content is locked to the music by timecode, a shared time signal, so each cue lands at the same moment in the music at every show. The cue points of the set are organized in a cue list.
+
+### Zori's role
+The music is Daskal's, and the visual show is Zori's: he designed it, set up the timecode sync and the cue list, and operates it live at every date.
+
+### Selected dates
+Dates include Midbari, a desert party at Kfar Hanokdim in the Judean Desert, and White Night 2025 at the Tel Aviv Museum of Art, where Zori also ran the visuals for three stages in parallel. The main clip on this page was filmed at White Night.
+
+## Audio-Reactive Visuals and Stage Mapping for a Singer's Live Shows
+URL: https://depth-lab.com/work/audio-reactive-stage-mapping/
+A singer's live shows · 2025-2026 · Audio-reactive visuals, live camera and stage video mapping
+
+For a singer's live shows in December 2025 and September 2026, DepthLab, a Tel Aviv studio, made audio-reactive visuals for each song with a live closed-circuit camera, and later mapped video onto an inflatable moon and a carved wooden log on stage, with real-time generative scenes.
+
+- Type: Show visuals and stage video mapping
+- Year: December 2025 and September 2026
+- Role: Zori Baazov (DepthLab): visuals for each song, live camera and stage video mapping
+- Show: Audio-reactive visuals made for each song, with a live closed-circuit camera; later, video mapping on an inflatable moon and a carved wooden log, with real-time generative scenes
+- Runtime: Real time, during the shows
+
+### Visuals for each song
+Each song in the shows had its own visuals, made to react to the audio as the song is played. A live closed-circuit camera was part of the setup.
+
+### Projection mapping on stage objects
+Later, the studio mapped video onto two objects on the stage: an inflatable moon and a carved wooden log. The scenes on them were generative and ran in real time during the show.
+
+### How it works
+Audio-reactive visuals take their movement from the sound, so the image follows the song as it is played. Mapping onto objects starts from their real shape, so the content sits on the object itself rather than on a flat screen.
+
+### For musicians
+For musicians, a show like this combines two DepthLab services: live visuals that respond to the music, and video mapping on the stage set. The songs, the visuals and the objects on stage then come together as one audiovisual show.
+
+## Facade Mapping at Hasifa Music Festival, Jerusalem
+URL: https://depth-lab.com/work/hasifa-festival-facade-mapping/
+Hasifa Music Festival, Jerusalem · 2025 · Video mapping, run live from a control desk
+
+For Hasifa Music Festival in Jerusalem in November 2025, DepthLab, a Tel Aviv studio, mapped video onto a building facade. The mapping was run live from a control desk during the festival.
+
+- Type: Video mapping on a building facade
+- Year: November 2025
+- Venue: Hasifa Music Festival
+- City: Jerusalem
+- Role: Zori Baazov (DepthLab): video mapping, run live from a control desk
+- Show: Content mapped to the shape of the facade
+- Runtime: Live, from a control desk, during the festival
+
+### The facade
+The content was fitted to the shape of the building, across its floors and around its corner, so the projection follows the architecture rather than a flat screen.
+
+### Live from the control desk
+At the control desk, the screen shows a node-based patch, a timecode readout and a preview of the facade content, and a laptop shows the mapping layout, with the stage lights behind it. From there, the mapping was run live during the International Music Showcase Festival (Hasifa), produced by the Yellow Submarine in Jerusalem.
+
+### On the building
+At night the gallery shows black-and-white patterns across the floors and around a blue-lit floor, a large pink illustration on the corner of the building, colorful geometric shapes above the festival crowd and a sparkling purple projection above the stage. A wide view across the rooftops shows the mapped facade with the city lights behind it.
+
+### How a facade mapping is prepared
+A facade mapping needs darkness, a safe place for the projectors at the right distance from the building, and content made to its measured shape. DepthLab's projection mapping page describes the full process, from the site survey to calibration on site.
+
+## LED Cube Installation at Midburn 2025
+URL: https://depth-lab.com/work/midburn-led-cube/
+Midburn, Negev desert · 2025 · Built the LED cube and lit it in the desert
+
+Zori Baazov of DepthLab, a Tel Aviv studio, built an LED cube at home, in his living room, and lit it in the desert at Midburn 2025. At night, the people around the cube became part of the visuals.
+
+- Type: LED cube installation
+- Year: 2025
+- Venue: Midburn 2025, Negev desert
+- Role: Zori Baazov (DepthLab): built the LED cube at home and lit it in the desert
+- System: An LED cube on a frame, built in Zori's living room; at night, the people around it became part of the visuals
+- Runtime: At night, during Midburn 2025
+
+### The build
+The cube started as a home build in Zori's living room. A clip from the build shows hanging LED strands with a glowing white sphere, tested by hand, before the cube went to the desert.
+
+### At Midburn
+Midburn takes place in the Negev desert. At Midburn 2025 the cube stood there on its frame, with road cases at its base. At night it was lit with flowing colors and people gathered around it, and one clip shows a dancer with a light-up hoop in front of it.
+
+### What the clips show
+The clips show human figures forming in the cube's lights. The cube glows purple in the dark with a figure made of its lights; a dancer raises an arm as a figure appears; a woman spreads her arms and a figure in the lights takes the same pose as the colors change; and a silhouette in a fur coat faces the cube as a figure forms.
+
+## VJ for Club Nights at Oman 17, Tel Aviv
+URL: https://depth-lab.com/work/oman-17-club-nights/
+Oman 17, Tel Aviv · 2025 · VJ, live visuals
+
+In 2025, Zori Baazov of DepthLab played live visuals as VJ at club nights at Oman 17 in Tel Aviv. The visuals ran on the LED wall above the DJ, among the lasers and haze of the dance floor.
+
+- Type: Live visuals for club nights
+- Year: 2025
+- Venue: Oman 17
+- City: Tel Aviv
+- Role: Zori Baazov (DepthLab): VJ
+- Show: Live visuals on the LED wall above the DJ
+- Runtime: Live, at club nights in 2025
+
+### What a VJ does at a club night
+A VJ plays the visuals live, the way a DJ plays the music: choosing and mixing content in the moment, so the screens move with the set. At Oman 17 (Haoman 17) in 2025, that was Zori's job at the club nights.
+
+### The approach
+On stage Zori mostly works with electronic music. As a VJ, he wants the visuals to follow the arrangement of a set, its drops and its breakdowns, and not only react to the frequencies.
+
+### On the screens
+The gallery shows the LED wall above the DJ with abstract fire-like textures, red chevron patterns and a three-dimensional cube illusion. Around it, lasers, light beams, CO2 jets and haze fill the room over the dance floor, seen from the booth and from the crowd.
+
+### Where Zori started
+Zori started out as a VJ in clubs, at parties and at fashion shows, and founded DepthLab in 2024. Live VJ sets for club nights, parties and fashion shows are part of the studio's live visuals and VJ service.
+
+## Real-Time AI Mirror
+URL: https://depth-lab.com/work/real-time-ai-mirror/
+In-house R&D · 2026 · R&D: real-time pipeline and custom LoRA training
+
+DepthLab, a Tel Aviv studio, is developing a real-time AI mirror for entertainment venues, malls and museums: you stand in front of a camera and see yourself in another world, with everything running locally on one GPU. The first version ran at about 5 FPS; after optimizing the pipeline and training his own LoRA, Zori Baazov reached about 10 FPS on the same GPU. The project is still in R&D.
+
+- Type: Real-time AI installation, R&D
+- Year: 2026, in progress
+- Venue: In-house R&D; intended for entertainment venues, malls and museums
+- Role: Zori Baazov (DepthLab): real-time pipeline and custom LoRA training
+- System: A live camera and one local GPU; a custom LoRA trained in-house
+- Runtime: Real time: about 5 FPS in the first version, about 10 FPS on the same GPU after optimization
+
+### The brief
+A client asked for a real-time AI mirror on one local GPU. The deal did not close, but the project had become interesting, so Zori kept working on it as in-house R&D.
+
+### How it works
+The live camera image goes through an AI model on one local GPU, and the visitor sees the same moment in another world. The hard part is speed: video AI models render clips in minutes, and a mirror needs several new frames every second.
+
+### Zori's role and where it is going
+Zori builds the real-time pipeline and trains the custom LoRA. He sees the mirror as an AI installation for entertainment venues, malls and museums, where each visitor in front of the camera sees a live image of themselves in another world.
+
+### What the gallery shows
+Side by side, the camera image shows a man in an ordinary living room, and the AI version shows the same moment with the floor turned into a beach. In the clips he stands in shallow surf with his arms out, kicks at small waves and crouches to touch the water.
+
+## Zori Baazov, VJ & Real-Time Experience Creator in Tel Aviv
+Zori Baazov (זורי באזוב), a VJ and visual artist based in Tel Aviv, makes audiovisual shows for musicians and live visuals for clubs and festivals across Israel. In January 2024 he founded DepthLab (Depth Lab Studio), a studio for live visuals, projection mapping and interactive installations, from stage shows to permanent rooms.
+Zori was born in Georgia and moved to Israel in 2017. He studied New Media at Musrara, the Naggar School of Art and Society, in Jerusalem: creative coding, video and sensor-based installations.
+He started as a VJ in clubs, at parties and fashion shows. From 2022 to 2024 he worked as a VJ and real-time operator on large concert productions: LED screens, projection, on-stage troubleshooting, and working with directors, lighting designers and artists.
+Since founding DepthLab, he has worked directly with clients, taking projects from site survey to handover: specification, system design (projectors, LED, media servers, sensors), suppliers and budget, content, installation and calibration.
+On stage he mostly works with electronic music. He wants the visuals to follow the arrangement of a set, its drops and breakdowns, and to react to the frequencies as well.
+For Daskal, a keyboardist, composer and producer, he built a timecode show that turns the live set into one audiovisual show, and he has run it live at every date since 2025. For a singer's live shows he made audio-reactive visuals for each song with a live closed-circuit camera, and later mapped video with real-time generative scenes onto an inflatable moon and a carved wooden log on stage.
+He uses AI every day, including AI coding agents that automate parts of his pipeline, such as Unreal scripting, rendering and encoding. His R&D includes a real-time AI mirror. In development: an immersive rehabilitation room for a hospital's clinical team, with markerless body tracking on depth cameras.
+DepthLab is open to studio projects for entertainment venues, malls, museums, events and brands across Israel. Zori is also open to roles in real-time and interactive experiences, live production and multimedia project management.
+
+Selected venues and events:
+- White Night, Tel Aviv Museum of Art (2025)
+- Hasifa Music Festival, Jerusalem (2025)
+- Midburn, Negev desert (2025)
+- Midbari, Kfar Hanokdim, Judean Desert
+- Oman 17, Tel Aviv (2025)
+- A bowling complex in Kiryat Gat (2026)
+
+Talks and appearances:
+- A talk at a meetup of Hatqana (התקנה), Roman Mak's new-media and creative-coding community in Tel Aviv (September 2025)
+- On the lineup of Algorave: Creative Coding Night at Lost & Found, Tel Aviv (23 October 2025)
+
+Tools: Resolume Arena · TouchDesigner · Unreal Engine 5 · Smode · ComfyUI · Adobe Creative Cloud · Blender · GLSL · depth cameras · LiDAR · timecode · DMX / Art-Net / sACN
+
+## Let's build something.
+To contact DepthLab in Tel Aviv, send a DM on Instagram (@depthlab_studio) or a message to Zori Baazov on LinkedIn about live visuals, an audiovisual show, projection mapping, an immersive room or an interactive installation anywhere in Israel. A few lines about the project are enough to start.
+Instagram: https://www.instagram.com/depthlab_studio/
+LinkedIn: https://www.linkedin.com/in/zoribaazov/
+
+# DepthLab, עברית
+
+DepthLab הוא סטודיו תל־אביבי לוויז׳ואלים חיים, מיפוי וידאו ומיצבים אינטראקטיביים, מהופעות ועד חדרים קבועים.
+
+המייסד: זורי באזוב (Zori Baazov), VJ ויוצר חוויות בזמן אמת, הקים את DepthLab בינואר 2024. הוא מתכנן ומפעיל ויז׳ואלים חיים למוזיקאים, למופעים אודיו־ויזואליים, למועדונים ולפסטיבלים ברחבי ישראל.
+
+ויז׳ואלים חיים, מיפוי וידאו ומיצבים אינטראקטיביים
+DepthLab הוא הסטודיו של ה־VJ זורי באזוב בתל אביב: ויז׳ואלים חיים למוזיקאים ולמופעים אודיו־ויזואליים, מיפוי וידאו ומיצבים אינטראקטיביים למקומות בילוי, לאירועים ולמותגים ברחבי ישראל.
+
+## למי השירותים מיועדים
+
+### מוזיקאים ואמנים
+DepthLab הופך סט חי למופע אודיו־ויזואלי: את מופע הטיים־קוד של Daskal זורי מפעיל בלייב בכל הופעה, ובהופעות חיות אחרות הסטודיו הכין ויז׳ואלים שמגיבים לסאונד, עם מצלמה חיה ומיפוי וידאו על הבמה. הסטודיו יוצר גם תוכן אינטראקטיבי שמגיב לאנשים שבחלל.
+עבודות קשורות: המופע החי של Daskal: ויז׳ואלים בטיים־קוד (https://depth-lab.com/he/work/daskal-live-show/); ויז׳ואלים שמגיבים למוזיקה ומיפוי במה בהופעות חיות (https://depth-lab.com/he/work/audio-reactive-stage-mapping/)
+
+### מפיקי אירועים, מועדונים ופסטיבלים
+ויז׳ואלים חיים לערבי מועדון, לפסטיבלים ולאירועים עם כמה במות, מתכנון המופע ועד ההפעלה החיה. בלילה לבן 2025 במוזיאון תל אביב לאמנות, זורי ניהל את הוויז׳ואלים בשלוש במות במקביל, וב־Oman 17 בתל אביב הוא הפעיל ויז׳ואלים חיים כ־VJ בערבי מועדון.
+עבודות קשורות: ויז׳ואלים לשלוש במות בלילה לבן, מוזיאון תל אביב לאמנות (https://depth-lab.com/he/work/white-night-tel-aviv-museum/); VJ בערבי מועדון ב־Oman 17, תל אביב (https://depth-lab.com/he/work/oman-17-club-nights/)
+
+### מתחמי בילוי והתקנות קבע
+חדרים אימרסיביים עם הקרנה והתקנות קבע למתחמי בילוי, מסקר האתר ועד המסירה. שלושת חדרי ה־VIP במתחם באולינג בקריית גת פועלים כל יום בלי מפעיל, וצוות המקום בוחר מה יוקרן.
+עבודות קשורות: חדרי VIP אימרסיביים במתחם באולינג בקריית גת (https://depth-lab.com/he/work/vip-rooms-bowling-kiryat-gat/)
+
+### מוזיאונים, קניונים ומותגים
+מיצבים אינטראקטיביים עם מצלמות עומק, לידאר ומעקב גוף, ומיצבי AI בזמן אמת, כמו מראת ה־AI שנמצאת בשלבי מו״פ. במידברן 2025, האנשים שסביב קוביית הלד של זורי הפכו בלילה לחלק מהוויז׳ואלים.
+עבודות קשורות: מיצב קוביית לד במידברן 2025 (https://depth-lab.com/he/work/midburn-led-cube/); מראת AI בזמן אמת (https://depth-lab.com/he/work/real-time-ai-mirror/)
+
+## ויז׳ואלים להופעות ו־VJ
+URL: https://depth-lab.com/he/live-show/
+
+DepthLab, הסטודיו של ה־VJ זורי באזוב בתל אביב, מתכנן ומפעיל ויז׳ואלים חיים ווידאו ארט למוזיקאים, לאמנים, למפיקי אירועים, למועדונים ולפסטיבלים ברחבי ישראל, מערבי מועדון ועד מופעים אודיו־ויזואליים. העבודה כוללת תכנון של המופע מול התאורן וההפקה, תוכן שמסונכרן למוזיקה בטיים־קוד או משתנה עם הסאונד, והפעלה חיה בכל הופעה. על הבמה זורי עובד בעיקר עם מוזיקה אלקטרונית, והוא רוצה שהוויז׳ואלים ילכו לפי המבנה של הסט: הדרופים והברייקדאונים.
+
+- תכנון המופע מול התאורן, הבמאי וההפקה
+- שפה ויזואלית ותוכן שנבנים לסט של האמן
+- תוכן שמסונכרן למוזיקה בטיים־קוד, עם רשימת קיו (cue list)
+- לכל שיר ויז׳ואלים משלו שמגיבים לאודיו, עם מצלמה חיה וסצנות גנרטיביות בזמן אמת
+- תוכן אינטראקטיבי שהאנשים בחלל משפיעים עליו, עם מצלמות עומק ולידאר
+- הפעלה חיה בכל הופעה, על מסכי לד או בהקרנה
+- סטים של VJ למועדונים, למסיבות ולתצוגות אופנה
+- תיאום ויז׳ואלים בין כמה במות באותו אירוע
+
+### ויז׳ואלים למוזיקאים
+לכל מופע, הסטודיו בונה שפה ויזואלית לסט ומתכנן איך היא הולכת עם המוזיקה. במופע של Daskal, קלידן, מלחין ומפיק, התוכן מסונכרן למוזיקה בטיים־קוד עם רשימת קיו, וזורי באזוב מפעיל את המופע בלייב בכל הופעה. בהופעות חיות שהסטודיו ליווה בדצמבר 2025 ובספטמבר 2026, הוא הכין לכל שיר ויז׳ואלים שמגיבים לאודיו, עם מצלמה חיה במעגל סגור, ובהמשך מיפה וידאו על ירח מתנפח ועל בול עץ מגולף על הבמה.
+
+### ערבי מועדון ופסטיבלים
+בערבי מועדון, זורי מפעיל סטים של VJ בלייב, כמו ב־Oman 17 בתל אביב ב־2025. בפסטיבלים ובאירועי תרבות אפשר לתכנן את הוויז׳ואלים לכמה במות יחד. בלילה לבן 2025 במוזיאון תל אביב לאמנות, זורי ניהל את הוויז׳ואלים בשלוש במות במקביל, כולל תיאום ספקים, ניהול תכנים ותיאום בין אמני התאורה לאמני הווידאו.
+
+### ניסיון וכלים
+זורי באזוב התחיל כ־VJ במועדונים, במסיבות ובתצוגות אופנה. בין 2022 ל־2024 עבד כ־VJ וכמפעיל זמן אמת בהפקות הופעות גדולות: מסכי לד, הקרנה, פתרון תקלות על הבמה ועבודה עם במאים, תאורנים ואמנים. בין הכלים שלו: Resolume Arena, TouchDesigner, Smode, טיים־קוד ו־DMX / Art-Net / sACN.
+
+1. בריף: עוברים יחד על המוזיקה, הבמה, המסכים והתאריכים.
+2. עיצוב המופע: שפה ויזואלית לסט, בתכנון משותף עם התאורן וההפקה.
+3. תוכן וטיים־קוד: התוכן נבנה לבמה ומסונכרן למוזיקה, עם רשימת קיו למופע.
+4. הופעה: זורי מפעיל את הוויז׳ואלים בלייב בכל הופעה.
+
+Q: מי עושה VJ וויז׳ואלים להופעות ולמסיבות בישראל?
+A: DepthLab, הסטודיו של ה־VJ זורי באזוב בתל אביב, מתכנן ומפעיל ויז׳ואלים חיים להופעות, למסיבות במועדונים ולפסטיבלים ברחבי ישראל. בין העבודות: מופע הטיים־קוד של Daskal, ערבי מועדון ב־Oman 17 בתל אביב והוויז׳ואלים לשלוש במות בלילה לבן 2025 במוזיאון תל אביב לאמנות.
+
+Q: מי יכול להכין תוכן אינטראקטיבי למופע אודיו־ויזואלי בישראל?
+A: DepthLab, הסטודיו של ה־VJ זורי באזוב בתל אביב, מכין ומפעיל ויז׳ואלים למופעי מוזיקה ברחבי ישראל ובונה מיצבים אינטראקטיביים שמגיבים לאנשים. הוויז׳ואלים למופעים כוללים תוכן שמשתנה עם הסאונד וסצנות גנרטיביות בזמן אמת. בהופעות חיות שהסטודיו ליווה, כל שיר קיבל ויז׳ואלים משלו שמגיבים לאודיו, עם מצלמת וידאו חיה במעגל סגור, ובהמשך הסטודיו מיפה וידאו על ירח מתנפח ועל בול עץ מגולף על הבמה. במידברן 2025, האנשים שסביב קוביית לד שזורי בנה הפכו בלילה לחלק מהוויז׳ואלים. למיצב חדש שמגיב לתנועה של אנשים, הסטודיו יכול לתכנן מצלמות עומק, לידאר או מעקב גוף. בין הכלים של זורי: TouchDesigner, Resolume Arena, Unreal Engine 5 ו־GLSL.
+
+Q: מה זה VJ (ויג׳יי), ומה הוא עושה בהופעה או במסיבה?
+A: VJ הוא מי שמפעיל וממקסס ויז׳ואלים בלייב על המסכים או בהקרנה, בתיאום עם המוזיקה. בהופעה ה־VJ מפעיל בדרך כלל מופע שנבנה לסט, ובמסיבה הוא ממקסס את הוויז׳ואלים לאורך הלילה. ב־DepthLab זורי באזוב עובד בעיקר עם מוזיקה אלקטרונית ורוצה שהוויז׳ואלים ילכו לפי המבנה של כל סט: הדרופים והברייקדאונים.
+
+Q: מה זה מופע טיים־קוד, ואיך מסנכרנים וידאו למוזיקה?
+A: במופע טיים־קוד הוויז׳ואלים נעולים למוזיקה דרך אות זמן משותף, כך שכל קיו נופל באותו רגע בטראק בכל הופעה. התוכן נבנה לסט ומסודר ברשימת קיו. במופע של Daskal זורי גם מפעיל את הוויז׳ואלים בלייב בכל הופעה.
+
+Q: מה ההבדל בין מופע טיים־קוד, סט VJ חי וויז׳ואלים שמגיבים למוזיקה?
+A: במופע טיים־קוד כל קיו נעול לטראק, כך שכל קיו נופל באותו רגע במוזיקה בכל הופעה, כמו במופע החי של Daskal. בסט VJ חי, ה־VJ מפעיל וממקסס את הוויז׳ואלים בלייב לאורך הערב, כמו בערבי המועדון ב־Oman 17 בתל אביב, שבהם זורי הפעיל ויז׳ואלים חיים כ־VJ. באפשרות השלישית, הוויז׳ואלים מגיבים לסאונד ומשתנים בזמן שהמוזיקה מתנגנת, כמו בוויז׳ואלים ש־DepthLab הכין לכל שיר בהופעות חיות. אפשר לשלב את שלוש האפשרויות באותו מופע.
+
+Q: אפשר לבנות מופע ויזואלי לסט חי של אמן ולהפעיל אותו בכל הופעה?
+A: כן. ל־Daskal, קלידן, מלחין ומפיק, הסטודיו בנה שפה ויזואלית לסט, סנכרן את התוכן למוזיקה בטיים־קוד והכין רשימת קיו. מאז 2025 זורי מפעיל את המופע בלייב בכל הופעה, כולל מדברי בכפר הנוקדים ולילה לבן במוזיאון תל אביב לאמנות.
+
+Q: עושים ויז׳ואלים לתצוגות אופנה?
+A: כן. זורי באזוב התחיל את דרכו כ־VJ במועדונים, במסיבות ובתצוגות אופנה, וסטים של VJ לתצוגות אופנה הם חלק מהשירות. שלחו את התאריך, את שם המקום ופרטים על המסכים או על ההקרנה שיש שם.
+
+Q: מה צריך להכין במקום בשביל VJ, מסכי לד או מקרן?
+A: בדרך כלל VJ צריך מסכים או מקרן, חיבור וידאו מעמדת ההפעלה למסכים, חשמל וזמן במקום להקמה ולבדיקות לפני פתיחת הדלתות. כדאי לשלוח את הריידר הטכני, את תוכנית הבמה, את גודל המסכים והרזולוציות שלהם ואת לוח הזמנים. אם עדיין אין מסכים, הסטודיו יכול לתכנן מסכי לד או הקרנה יחד עם ספקים.
+
+Q: כמה עולה VJ להופעה או לאירוע?
+A: DepthLab לא מפרסם מחירים, כי כל מופע שונה. העלות תלויה במספר ההופעות והבמות, בכמות התוכן החדש, בתכנות הטיים־קוד, במסכים או במקרנים ובזמן ההקמה והחזרות. שלחו את הפרטים באינסטגרם או בלינקדאין כדי לקבל הצעת מחיר.
+
+Q: אתם עובדים גם מחוץ לתל אביב, ובאילו שפות?
+A: כן. DepthLab נמצא בתל אביב ועובד ברחבי ישראל, עם פרויקטים בתל אביב, בירושלים, בקריית גת, במדבר יהודה ובמידברן בנגב. זורי מדבר עברית, אנגלית, רוסית וגאורגית.
+
+## מיפוי וידאו ומערכי מקרנים
+URL: https://depth-lab.com/he/video-mapping/
+
+DepthLab, הסטודיו של זורי באזוב בתל אביב, מתכנן ומפעיל מיפוי וידאו (וידאו מאפינג) למקומות בילוי, לקניונים, למותגים, למפיקי אירועים, לפסטיבלים, לאמנים ולמוזיאונים ברחבי ישראל. העבודה מכסה את כל השרשרת: סקר אתר, תכנון מקרנים ועדשות, בלנדינג של כמה מקרנים לתמונה אחת, מיפוי התוכן למשטח האמיתי וכיול במקום. בין הפרויקטים: שלושה חדרי VIP אימרסיביים בקריית גת, עם חמישה עד שישה מקרנים בכל חדר, וחזית בניין בפסטיבל חשיפה בירושלים.
+
+- סקר אתר ומדידה של המשטח או החדר
+- תכנון מקרנים ועדשות, עם ציוד דרך ספקים
+- בלנדינג של כמה מקרנים לתמונה רציפה אחת
+- תוכן שממופה לגאומטריה ולנקודת המבט של החלל
+- מיפוי על תפאורה ועל אובייקטים בהופעות חיות
+- כיול במקום
+- הפעלה חיה מעמדת שליטה, או ניגון אוטומטי בלי מפעיל
+
+### על מה ממפים
+חדרים: שלושה חדרי VIP במתחם באולינג בקריית גת. בכל חדר חמישה עד שישה מקרנים מחוברים בבלנדינג לתמונה אחת על שלושה קירות, כ־270 מעלות. אובייקטים על הבמה: בהופעות חיות שהסטודיו ליווה, הוא מיפה וידאו על ירח מתנפח ועל בול עץ מגולף. חזית בניין: בפסטיבל חשיפה בירושלים, בנובמבר 2025, המיפוי הופעל בלייב מעמדת שליטה.
+
+### ניסיון
+בין 2022 ל־2024 זורי באזוב עבד כ־VJ וכמפעיל זמן אמת בהפקות הופעות גדולות, עם מסכי לד והקרנה. בינואר 2024 הוא הקים את DepthLab, ומאז הוא עובד ישירות מול הלקוחות ומלווה פרויקטים מסקר האתר ועד המסירה: אפיון, תכנון מערכת, ספקים ותקציב, תוכן, התקנה וכיול.
+
+1. סקר אתר: מגיעים למקום, מודדים את המשטח ובודקים את האור, את החשמל ואת המקומות האפשריים למקרנים.
+2. תוכנית מקרנים: בוחרים מקרנים ועדשות לפי גודל התמונה ומרחק ההקרנה.
+3. תוכן: התוכן נבנה לפי הגאומטריה שנמדדה, כך שהוא יושב על המשטח האמיתי.
+4. התקנה וכיול: המקרנים עולים, והתמונה עוברת בלנדינג, מיפוי וכיול במקום.
+5. מופע או מסירה: המיפוי רץ בלייב מעמדת שליטה, או מתנגן לבד במערכת קבועה.
+
+Q: מה זה וידאו מפינג (מיפוי וידאו)?
+A: מיפוי וידאו, שנקרא גם מיפוי הקרנה, הוא הקרנה של תוכן שנבנה לפי הצורה המדויקת של משטח אמיתי, כמו חדר, תפאורה, אובייקט או חזית בניין. כשמקרן אחד לא מספיק, מחברים כמה מקרנים לתמונה אחת בבלנדינג. DepthLab, סטודיו מתל אביב, מתכנן את כל השרשרת, מסקר האתר ועד הכיול במקום.
+
+Q: מי עושה מיפוי וידאו (וידאו מאפינג) בישראל?
+A: DepthLab, סטודיו תל־אביבי שהקים זורי באזוב, מתכנן ומפעיל מיפוי וידאו ברחבי ישראל, מחדרים אימרסיביים ועד עבודות במה וחזית בניין. בין הפרויקטים: שלושה חדרי VIP במתחם באולינג בקריית גת, עם חמישה עד שישה מקרנים בכל חדר, ומיפוי על חזית בניין בפסטיבל חשיפה בירושלים בנובמבר 2025.
+
+Q: מה ההבדל בין וידאו ארט לווידאו מפינג?
+A: וידאו ארט הוא התוכן הוויזואלי עצמו, שמוצג על מסכים או בהקרנה. מיפוי וידאו מתאים את ההקרנה לצורה של משטח אמיתי, כמו קיר, תפאורה או בניין, כך שהתוכן יושב עליו בדיוק. DepthLab מכין את שניהם: את התוכן, ואת המיפוי שמתאים אותו למשטח.
+
+Q: אפשר למפות וידאו על תפאורה או על אובייקטים?
+A: כן. בהופעות חיות שהסטודיו ליווה, הוא מיפה וידאו על ירח מתנפח ועל בול עץ מגולף על הבמה, עם סצנות גנרטיביות בזמן אמת. מיפוי על הבמה מתחיל במדידה של האובייקטים, כדי שהתוכן יתאים לצורה האמיתית שלהם.
+
+Q: אפשר לעשות מיפוי וידאו לפסטיבל או לאירוע עירוני?
+A: כן. בנובמבר 2025 DepthLab מיפה חזית בניין בפסטיבל חשיפה בירושלים, והפעיל את המיפוי בלייב מעמדת שליטה. פרויקט לפסטיבל או לאירוע עירוני מתחיל בסקר של המשטח ובלוח הזמנים של האירוע, כי המיפוי יכול לרוץ רק בחושך.
+
+Q: אפשר להקרין על בניין באור יום?
+A: הקרנה צריכה חושך. בחוץ, מיפוי וידאו על בניין או על כל משטח אחר עובד אחרי השקיעה, וככל שיש יותר אור בסביבה צריך מקרנים חזקים יותר. באור יום, הבחירה המקובלת היא מסכי לד.
+
+Q: מה זה בלנדינג של מקרנים?
+A: בלנדינג (edge blending) מחבר את התמונות של כמה מקרנים לתמונה אחת בלי תפרים: הקצוות חופפים ומתמזגים זה בזה, כך שקיר גדול או חדר שלם נראים כתמונה אחת. בקריית גת חמישה עד שישה מקרנים בכל חדר מכסים שלושה קירות, כ־270 מעלות. מספר המקרנים שמשטח צריך תלוי בגודל שלו, במרחק ההקרנה ובאור בסביבה, וסקר האתר בודק את כל אלה.
+
+Q: באיזו תוכנה עושים מיפוי וידאו?
+A: בין הכלים של הסטודיו: Resolume Arena, TouchDesigner, Smode ו־Unreal Engine 5. כשהמיפוי צריך ללכת עם מוזיקה, משתמשים גם בטיים־קוד. הבחירה תלויה במשטח, בתוכן ובשאלה אם המיפוי רץ בלייב מעמדת שליטה או מתנגן לבד.
+
+Q: מה המקום צריך לספק בשביל מיפוי וידאו?
+A: המקום צריך לאפשר סקר אתר, לתת מקום בטוח להתקנת המקרנים במרחק הנכון מהמשטח, חשמל וחושך בזמן המופע. כדי להתחיל, שלחו תמונות, מידות או תוכניות של המשטח, ואת התאריכים. מקרנים ועדשות יכולים להגיע דרך ספקים כחלק מהתוכנית.
+
+Q: כמה זמן לוקח להכין פרויקט של מיפוי וידאו?
+A: זה תלוי במשטח ובכמות התוכן החדש. כל פרויקט צריך סקר אתר, תוכנית מקרנים וזמן להקמה ולכיול במקום, ותוכן שנבנה לגאומטריה מוסיף זמן הפקה. כדאי לשלוח את התאריך מוקדם, כדי לבנות את התוכנית אחורה ממנו.
+
+Q: כמה עולה וידאו מאפינג?
+A: DepthLab לא מפרסם מחירים, כי כל פרויקט שונה. גורמי העלות העיקריים הם גודל המשטח, מרחק ההקרנה, כמות האור בסביבה, מספר המקרנים, אורך התוכן ומספר ימי ההקמה והמופע.
+
+## התקנות קבע וחדרים אימרסיביים
+URL: https://depth-lab.com/he/installations/
+
+DepthLab, סטודיו מתל אביב, מתכנן ומקים חדרים אימרסיביים עם הקרנה והתקנות קבע למתחמי בילוי, לקניונים, למוזיאונים ולמותגים ברחבי ישראל. חדר אימרסיבי הוא חלל שבו ההקרנה מכסה כמה קירות ועוטפת את מי שנמצא בו. הסטודיו מלווה כל חדר מסקר האתר ועד המסירה, והמערכת המוגמרת יכולה לרוץ כל יום בלי מפעיל, כמו בשלושת חדרי ה־VIP שמסר ב־2026 במתחם באולינג בקריית גת.
+
+- סקר אתר, אפיון ותכנון מערכת: מקרנים, מסכי לד, שרתי מדיה וחיישנים
+- ספקים ותקציב
+- תוכן שנבנה לגאומטריה ולנקודת המבט של כל חדר
+- התקנה, בלנדינג של המקרנים וכיול
+- ניגון אוטומטי שצוות המקום מנהל לבד, בלי מפעיל
+- עולמות תוכן לילדים, לנוער ולמבוגרים
+
+### למי זה מתאים
+חדר אימרסיבי מתאים למתחמי בילוי, ובהם מתחמי באולינג ומרכזי בילוי למשפחות, וגם לקניונים, למוזיאונים ולמותגים שרוצים להציע חוויה אימרסיבית קבועה. בחדרים בקריית גת יש יותר מתריסר עולמות לילדים, לנוער ולמבוגרים, וצוות המקום בוחר ביניהם בלי מפעיל. למקומות כאלה הסטודיו מפתח גם מיצבי AI בזמן אמת, ומתחיל במראת AI שעדיין בשלבי מו״פ.
+
+1. סקר אתר: מודדים את החדר ואת נקודות הצפייה, ובודקים את האור ואת החשמל.
+2. אפיון: מתכננים ומסכמים את המקרנים, את שרת המדיה, את הספקים ואת התקציב.
+3. תוכן: העולמות נבנים לפי הקירות שנמדדו, למשל ב־Unreal Engine עם ריג מצלמות שמותאם לחדר.
+4. התקנה וכיול: המקרנים מותקנים, והתמונה עוברת בלנדינג וכיול בתוך החדר.
+5. מסירה: הניגון אוטומטי, וצוות המקום בוחר את התוכן בלי מפעיל.
+
+Q: מה זה חדר אימרסיבי?
+A: חדר אימרסיבי הוא חלל שבו ההקרנה מכסה כמה קירות סביב הצופים, כך שהתמונה עוטפת את מי שנמצא בחדר. במיצב של DepthLab במתחם באולינג בקריית גת, כל חדר VIP עוטף את הצופים בשלושה קירות, כ־270 מעלות.
+
+Q: מה ההבדל בין חדר אימרסיבי לחדר אינטראקטיבי?
+A: בחדר אימרסיבי ההקרנה מכסה כמה קירות ועוטפת את מי שנמצא בחדר, כמו בשלושת חדרי ה־VIP ש־DepthLab מסר בקריית גת. בחדר אינטראקטיבי התוכן גם מגיב לאנשים, בעזרת מצלמות עומק, לידאר או מעקב גוף. אפשר לשלב בין השניים באותו חלל.
+
+Q: מי מקים חדר אימרסיבי למתחם בילוי בישראל?
+A: DepthLab, סטודיו מתל אביב שהקים זורי באזוב, מתכנן ובונה חדרים אימרסיביים עם הקרנה והתקנות קבע ברחבי ישראל, מסקר האתר ועד המסירה. ב־2026 הוא מסר שלושה חדרי VIP במתחם באולינג בקריית גת, עם חמישה עד שישה מקרנים בכל חדר ו־16 ויז׳ואלים, שרצים כל יום בלי מפעיל.
+
+Q: כמה מקרנים צריך לחדר של שלושה קירות?
+A: זה תלוי בגודל החדר, במרחק ההקרנה ובבהירות שהתמונה צריכה. בקריית גת כל חדר VIP משתמש בחמישה עד שישה מקרנים כדי לכסות שלושה קירות, כ־270 מעלות. סקר אתר נותן את המספר האמיתי לחדר שלכם.
+
+Q: אפשר לחבר שני חדרים לתמונה אחת?
+A: כן. במיצב של DepthLab במתחם באולינג בקריית גת, שניים משלושת חדרי ה־VIP יכולים להיפתח לתמונה רציפה אחת.
+
+Q: התקנת קבע יכולה לעבוד בלי מפעיל?
+A: כן. בקריית גת לופים רציפים רצים כל יום ב־Resolume Arena, שמשמשת כמערכת הניגון הקבועה. צוות המקום בוחר את הלופים, ואין צורך במפעיל.
+
+Q: אפשר להחליף תכנים בחדר, עם עולמות לילדים, לנוער ולמבוגרים?
+A: כן. במיצב בקריית גת יש 16 ויז׳ואלים, יותר מתריסר עולמות לילדים, לנוער ולמבוגרים, ביניהם ג׳ונגל, קזינו, אחוזה, עיר בשמיים, כדורגל, שקיעה בעיר ועיר גיבורים. צוות המקום בוחר איזה עולם יוקרן.
+
+Q: מה צריך להכין לקראת סקר אתר?
+A: לקראת סקר האתר, המקום צריך לתת גישה לחדר ולשלוח מידות או תוכניות, את המקומות שמהם הקהל צופה ופרטים על האור ועל החשמל. בסקר בודקים איפה אפשר להתקין מקרנים ואיך התמונה תגיע לכל קיר.
+
+Q: כמה זמן לוקח פרויקט של חדר אימרסיבי?
+A: זה תלוי במספר החדרים ובכמות התוכן. לשם השוואה, שלושת חדרי ה־VIP בקריית גת, עם 16 ויז׳ואלים, נמסרו בין יוני לספטמבר 2026.
+
+Q: כמה עולה חדר אימרסיבי?
+A: DepthLab לא מפרסם מחירים. העלות תלויה בגודל החדרים ובמספרם, במספר המקרנים, בשרת המדיה, בכמות העולמות שנבנים ובעבודת ההתקנה והכיול.
+
+## אינטראקטיב וחיישנים
+URL: https://depth-lab.com/he/interactive/
+
+DepthLab, הסטודיו של זורי באזוב בתל אביב, בונה מיצגים ומיצבים אינטראקטיביים למוזיאונים, לקניונים, למקומות בילוי ולאירועים, ותוכן אינטראקטיבי למופעי מוזיקה ולמסיבות, ברחבי ישראל. בעזרת מצלמות עומק, לידאר (LiDAR) ומעקב גוף בלי מרקרים, התוכן מגיב לאנשים שמולו, והם לא צריכים ללבוש או להחזיק שום דבר. הסטודיו מתכנן את החיישנים, בונה תוכן שרץ בזמן אמת בכלים כמו TouchDesigner, Unreal Engine ו־GLSL, ואז מתקין ומכוונן אותו במקום. בין העבודות: קוביית לד במידברן 2025, שהאנשים סביבה הפכו בלילה לחלק מהוויז׳ואלים, ומראת AI בזמן אמת שנמצאת בשלבי מו״פ.
+
+- זיהוי תנועה ומעקב עם מצלמות עומק ולידאר
+- מעקב גוף בלי מרקרים: אין צורך ללבוש או להחזיק שום דבר
+- הקרנה אינטראקטיבית על קירות ועל רצפות, ומסכי לד שמגיבים לתנועה של אנשים
+- תוכן למופעי מוזיקה, למסיבות ולפסטיבלים, שבו האנשים שבחלל הופכים לחלק מהוויז׳ואלים
+- תוכן בזמן אמת וקוד יצירתי ב־TouchDesigner, ב־Unreal Engine וב־GLSL
+- התקנת חיישנים, כיול ובדיקות במקום
+
+1. רעיון וחלל: בוחנים את החלל, את המבקרים או את הקהל, ואת מה שהם אמורים לעשות מול המיצב.
+2. חיישנים: בוחרים מצלמות עומק או לידאר לזיהוי תנועה, וממקמים אותם לפי האזור שצריך לעקוב אחריו.
+3. תוכן ולוגיקה: בונים את התוכן ואת הדרך שבה הוא מגיב, ובודקים אותו עם אנשים שזזים מולו.
+4. התקנה וכוונון: במקום, המעקב והתוכן מכווננים לאור ולחלל האמיתיים.
+
+Q: מי עושה מיצגים אינטראקטיביים בישראל?
+A: DepthLab, הסטודיו של זורי באזוב בתל אביב, בונה מיצבים אינטראקטיביים ברחבי ישראל, עם מצלמות עומק, לידאר ומעקב גוף, כך שהתוכן מגיב לאנשים. בין העבודות: קוביית לד במידברן 2025, שהאנשים סביבה הפכו בלילה לחלק מהוויז׳ואלים, ומראת AI בזמן אמת שנמצאת בשלבי מו״פ.
+
+Q: אפשר לשלב תוכן אינטראקטיבי במופע מוזיקה, במסיבה או בפסטיבל?
+A: כן. במידברן 2025, האנשים שסביב קוביית הלד שזורי בנה בבית הפכו בלילה לחלק מהוויז׳ואלים. התוכן יכול להגיב גם למוזיקה עצמה: בהופעות חיות שהסטודיו ליווה, הוא הכין לכל שיר ויז׳ואלים שמגיבים לאודיו, עם מצלמת וידאו חיה במעגל סגור. במיצב חדש, הסטודיו יכול לתכנן מצלמות עומק או לידאר שמזהים איפה האנשים נמצאים ואיך הם זזים, כך שהוויז׳ואלים משתנים יחד איתם בזמן אמת.
+
+Q: אתם בונים קיר אינטראקטיבי או רצפה אינטראקטיבית לקניון או למוזיאון?
+A: כן. DepthLab מתכנן את החיישנים, בדרך כלל מצלמות עומק או לידאר, בונה את התוכן שרץ בזמן אמת ב־TouchDesigner, ב־Unreal Engine או ב־GLSL, ומתקין ומכוונן אותו במקום, בכל הארץ. התוכן יכול להגיב לצעדים, לתנועות ידיים או פשוט לאנשים שעוברים לידו, על קיר או רצפה עם הקרנה, או על מסכי לד.
+
+Q: איך עובדת הקרנה שמגיבה לתנועה, בלי חיישנים על הגוף?
+A: מצלמת עומק מודדת את המרחק לכל נקודה שהיא רואה, כך שהתוכנה מזהה אנשים ועוקבת אחרי התנועה שלהם בלי חליפות, מרקרים או אביזרים לבישים. התנועה הופכת לנתונים, והתוכן על הקיר, על הרצפה או על המסך משתנה בזמן אמת. DepthLab מפתח חדר שיקום אימרסיבי לצוות קליני של בית חולים, עם מעקב גוף בלי מרקרים באמצעות מצלמות עומק.
+
+Q: מה זה מצלמת עומק, ומתי משתמשים בלידאר?
+A: מצלמת עומק מודדת כמה רחוקה כל נקודה שנמצאת מולה, כך שהתוכנה יכולה להפריד בין אנשים לרקע ולעקוב אחרי הגוף שלהם מטווח קרוב. מצלמות עומק רבות משתמשות באור אינפרא־אדום, ולכן הן עובדות גם בחלל הקרנה חשוך. לידאר מודד מרחק בעזרת אור לייזר, ומשמש לעיתים קרובות לזיהוי נוכחות או מגע על קיר או על רצפה. DepthLab בוחר את החיישן לפי גודל האזור והאור בחלל.
+
+Q: אפשר לשלב בינה מלאכותית במיצב אינטראקטיבי?
+A: כן. במראת ה־AI בזמן אמת של DepthLab, הקלט הוא התמונה החיה של המבקר מהמצלמה: עומדים מול מצלמה ורואים את עצמכם בעולם אחר. המראה רצה מקומית על כרטיס גרפי אחד בכ־10 FPS, והיא עדיין בשלבי מו״פ.
+
+Q: מיצב אינטראקטיבי יכול לעבוד כל היום בלי צוות?
+A: כן, כשהוא מתוכנן כמיצב קבע, עם הפעלה אוטומטית ושליטה פשוטה לצוות. התקנת הקבע של הסטודיו בקריית גת כבר רצה כל יום בלי מפעיל: צוות המקום בוחר את התוכן ב־Resolume Arena.
+
+Q: מה משפיע על העלות של מיצב אינטראקטיבי?
+A: DepthLab לא מפרסם מחירים. הגורמים העיקריים הם גודל האזור, מספר החיישנים, המסכים או המקרנים, מורכבות האינטראקציה, כמות התוכן, והאם המיצב מיועד לאירוע אחד או להתקנת קבע.
+
+## תוכן, 3D ו־AI
+URL: https://depth-lab.com/he/3d-ai/
+
+DepthLab, הסטודיו של זורי באזוב בתל אביב, מפיק תוכן מותאם למסכי לד, למיפוי וידאו ולחדרים אימרסיביים עבור מקומות בילוי, אמנים ומוזיקאים, מפיקי אירועים ומותגים ברחבי ישראל. העבודה כוללת לופים רציפים, אנימציה ועולמות תלת־מימד ב־Unreal Engine 5 וב־Blender, סצנות גנרטיביות בזמן אמת ותוכן AI, בפייפליינים מקומיים ובענן. כל עבודה נבנית למסך או למשטח האמיתי, ברזולוציה ובגאומטריה שלו. לחדרי ה־VIP במתחם באולינג בקריית גת הסטודיו יצר 16 ויז׳ואלים, רובם ב־Unreal Engine, שרונדרו כקנבס רחב אחד של 5120x800 פיקסלים לכל חדר.
+
+- לופים רציפים שנבנים למסכים או לקירות של המקום שלכם, ומוכנים לרוץ כל יום על שרת מדיה
+- אנימציה ועולמות תלת־מימד ב־Unreal Engine 5 וב־Blender, להקרנה ולמסכי לד
+- סצנות שנוצרות בזמן אמת להופעות ולמיפוי על הבמה
+- תוכן AI בפייפליינים מקומיים ובענן
+- תוכן שמותאם לגאומטריה ולנקודת המבט של כל חלל
+
+### מרונדר מראש או נוצר בלייב
+חלק מהתוכן מרונדר מראש ומתנגן כלופים רציפים, כמו 16 הוויז׳ואלים שרצים כל יום בחדרי ה־VIP של מתחם הבאולינג. חלק אחר נוצר בלייב, תוך כדי המופע. בהופעות חיות שהסטודיו ליווה, הוא הכין לכל שיר ויז׳ואלים שמגיבים לאודיו, עם מצלמת וידאו חיה במעגל סגור, ובהמשך מיפה וידאו על ירח מתנפח ועל בול עץ מגולף על הבמה, עם סצנות גנרטיביות בזמן אמת.
+
+1. קנבס: מתחילים מהמסך או מהקיר האמיתיים: רזולוציה, צורה ומאיפה הקהל צופה.
+2. לוק: רפרנסים ופריימים לדוגמה קובעים את הלוק לפני ההפקה המלאה.
+3. הפקה: עבודת תלת־מימד, AI ואנימציה, ברינדור בגודל המלא של הקנבס, או כתוכן שרץ בזמן אמת במהלך המופע.
+4. מסירה: את הלופים המרונדרים מקודדים ובודקים על שרת המדיה, ואת הסצנות בזמן אמת מתקינים ובודקים בחלל עצמו.
+
+Q: מי מכין תוכן למסכי לד ווידאו ארט לאירועים?
+A: DepthLab, הסטודיו של זורי באזוב בתל אביב, מייצר תוכן מותאם ווידאו ארט למסכי לד, למיפוי וידאו ולחדרים אימרסיביים ברחבי ישראל, מלופים רציפים ועד עולמות תלת־מימד ותוכן AI. למתחם באולינג בקריית גת הוא יצר 16 ויז׳ואלים לשלושה חדרי VIP, וכל אחד מהם הותאם לגאומטריה ולנקודת המבט של החדר.
+
+Q: מי מכין אנימציית תלת־מימד להקרנה על קירות או למסכי לד?
+A: DepthLab, סטודיו מתל אביב, מכין אנימציה ועולמות תלת־מימד ב־Unreal Engine 5 וב־Blender להקרנה, למסכי לד ולחדרים אימרסיביים. העולמות בקריית גת נבנו בעיקר ב־Unreal Engine, עם ריג מצלמות שמותאם לקירות שנמדדו, ורונדרו כקנבס רחב אחד לכל חדר.
+
+Q: באיזו רזולוציה מכינים תוכן לחדר הקרנה רחב?
+A: התוכן נבנה בגודל הקנבס המלא שהמקרנים מכסים אחרי הבלנדינג. בקריית גת כל חדר הוא קנבס אחד של 5120x800 פיקסלים על פני שלושה קירות. הגודל המדויק נקבע לפי תוכנית המקרנים של החלל שלכם.
+
+Q: מה ההבדל בין תוכן מרונדר מראש לוויז׳ואלים גנרטיביים בזמן אמת?
+A: תוכן מרונדר מראש נבנה לפני האירוע ומתנגן כווידאו, לרוב כלופים רציפים על שרת מדיה. ויז׳ואלים גנרטיביים בזמן אמת מחושבים בתוכנה בזמן שהמופע רץ, ולכן הם יכולים להשתנות לפי המוזיקה או הרגע. DepthLab עושה את שניהם: לופים מרונדרים לחדרים קבועים, וסצנות שנוצרות בלייב וממופות על אובייקטים על הבמה, בהופעות חיות שהסטודיו ליווה.
+
+Q: אפשר להשתמש בווידאו AI על מסכים באירוע או במועדון?
+A: כן. הסטודיו מייצר תוכן AI בפייפליינים מקומיים ובענן, ומכין אותו למסך או למשטח האמיתי כמו כל תוכן אחר, ברזולוציה ובפורמט הנכונים. זורי משתמש ב־AI כל יום, כולל סוכני AI לכתיבת קוד שמבצעים אוטומטית חלקים מהפייפליין, כמו סקריפטים ל־Unreal, רינדור וקידוד.
+
+Q: מי מכין לופים שרצים כל יום במקום בילוי?
+A: DepthLab מכין לופים כאלה. בחדרים בקריית גת לופים רציפים רצים כל יום ב־Resolume Arena. צוות המקום בוחר אותם, ואין צורך במפעיל.
+
+Q: מה לשלוח כדי להתחיל פרויקט תוכן?
+A: שלחו את פריסת המסכים או המקרנים עם הרזולוציות, תמונות או תוכניות של החלל, מאיפה הקהל צופה, הנושא או הרפרנסים שאתם חושבים עליהם, ואת התאריך שבו התוכן צריך להיות מוכן. אם המערך עוד לא מתוכנן, הסטודיו יכול לתכנן אותו יחד עם התוכן.
+
+Q: כמה עולה תוכן מותאם?
+A: DepthLab לא מפרסם מחירים. העלות תלויה במספר העבודות ובאורך שלהן, בגודל הקנבס, בכמות עבודת התלת־מימד או ה־AI ובמספר הגרסאות שהחלל צריך.
+
+## AI בזמן אמת
+URL: https://depth-lab.com/he/ai/
+
+DepthLab, הסטודיו של זורי באזוב בתל אביב, מפתח מיצבי AI (בינה מלאכותית) בזמן אמת למתחמי בילוי, לקניונים ולמוזיאונים בישראל, ומתחיל במראת AI בזמן אמת. עומדים מול מצלמה ורואים את עצמכם בעולם אחר: וידאו AI חי שנוצר מתמונת המצלמה, והכול רץ מקומית על כרטיס גרפי (GPU) אחד, כיום בכ־10 FPS. המראה עדיין בשלבי מו״פ, ו־AI הוא גם חלק מפייפליין התוכן היומיומי של הסטודיו.
+
+- מו״פ של מראת AI בזמן אמת: מצלמה, כרטיס גרפי מקומי אחד, ואתם בעולם אחר
+- קונספטים למיצבי AI למתחמי בילוי, לקניונים ולמוזיאונים
+- אופטימיזציה של הפייפליין ואימון LoRA ייעודי
+- תוכן AI למסכים, לחדרים ולהופעות
+- סוכני AI לכתיבת קוד שמבצעים אוטומטית חלקים מהפייפליין: סקריפטים ל־Unreal, רינדור וקידוד
+
+### מראת ה־AI: וידאו חי מהמצלמה, בזמן אמת
+לקוח ביקש מראת AI בזמן אמת: עומדים מול מצלמה ורואים את עצמכם בעולם אחר, והכול רץ מקומית על כרטיס גרפי אחד. העסקה לא נסגרה. הפרויקט כבר נהיה מעניין, אז זורי המשיך לעבוד עליו.
+
+### מה רואים בקליפים של המו״פ
+בקליפים של המו״פ אדם עומד בסלון רגיל, ובתמונת ה־AI הרצפה סביבו הפכה לחול ולמים רדודים. הוא מתכופף ומכניס את הידיים למים ובועט בגלים הקטנים, ותמונת ה־AI זזה יחד איתו. בקליפים של לפני ואחרי רואים זה לצד זה את צילום המצלמה ואת אותו רגע בגרסת ה־AI.
+
+### מכ־5 לכ־10 FPS
+החלק הקשה הוא המהירות. מודלים של וידאו AI צריכים כמה דקות כדי לרנדר קליפ, ואילו מראה צריכה כמה פריימים חדשים בכל שנייה. הגרסה הראשונה רצה בכ־5 FPS. אחרי אופטימיזציה של הפייפליין ואימון LoRA משלו, זורי הגיע לכ־10 FPS על אותו כרטיס גרפי. העבודה עדיין נמשכת.
+
+### מיצבי בינה מלאכותית למתחמי בילוי, לקניונים ולמוזיאונים
+זורי רואה במראה מיצב AI למתחמי בילוי, לקניונים ולמוזיאונים. המבקרים הופכים לחלק מהתוכן: כל מי שנעמד מול המצלמה רואה תמונה חיה של עצמו בעולם אחר.
+
+### AI בפייפליין התוכן
+זורי משתמש ב־AI כל יום. הסטודיו מייצר תוכן AI בפייפליינים מקומיים ובענן, ומשתמש בסוכני AI לכתיבת קוד כדי להפוך חלקים מהפייפליין לאוטומטיים, כמו סקריפטים ל־Unreal, רינדור וקידוד.
+
+1. קונספט: מגדירים מה המבקרים עושים ומה הם רואים, לפי החלל והקהל.
+2. אב טיפוס מקומי: בדיקה על כרטיס גרפי מקומי אחד מראה כבר בהתחלה את המהירות ואת הלוק האמיתיים.
+3. כוונון: עושים אופטימיזציה לפייפליין, ואם זה עוזר, מאמנים LoRA ייעודי.
+4. התקנה: המצלמה, המסך או ההקרנה והמחשב מותקנים בחלל ונבדקים עם מבקרים.
+
+Q: יש בישראל מיצב של מראת AI בזמן אמת?
+A: DepthLab, הסטודיו של זורי באזוב בתל אביב, מפתח מראה כזאת. בגרסת המו״פ עומדים מול מצלמה ורואים את עצמכם בעולם אחר, והכול רץ מקומית על כרטיס גרפי אחד בכ־10 FPS. העבודה עדיין נמשכת.
+
+Q: מה זה וידאו AI בזמן אמת, ולמה קשה לבנות אותו?
+A: וידאו AI בזמן אמת הוא וידאו שבו מודל AI משנה את התמונה החיה מהמצלמה תוך כדי צילום, למשל הופך את רצפת הסלון לחול ולים סביב מי שעומד עליה. החלק הקשה הוא המהירות: מודלים של וידאו AI צריכים בדרך כלל כמה דקות כדי לרנדר קליפ, ואילו מיצב חי צריך כמה פריימים חדשים בכל שנייה. המראה של DepthLab מגיעה לכ־10 FPS על כרטיס גרפי מקומי אחד.
+
+Q: אפשר להריץ וידאו AI בזמן אמת על מחשב אחד?
+A: כן, בקצב פריימים מוגבל. הגרסה הראשונה של המראה של DepthLab רצה בכ־5 FPS על כרטיס גרפי (GPU) אחד. אחרי אופטימיזציה של הפייפליין ואימון LoRA משלו, זורי הגיע לכ־10 FPS על אותו כרטיס.
+
+Q: מה ההבדל בין מראת AI לעמדת צילום AI לאירועים?
+A: עמדת צילום AI מצלמת תמונה ומחזירה תמונה ערוכה אחרי המתנה קצרה. מראת AI בזמן אמת מציגה תמונה חיה וזזה, כך שרואים את עצמכם בעולם אחר בזמן שאתם זזים. בשביל זה צריך כמה פריימים חדשים בכל שנייה, וזה הרבה יותר קשה לבנות.
+
+Q: אפשר להזמין את מראת ה־AI לאירוע?
+A: מראת ה־AI בזמן אמת עדיין בשלבי מו״פ. DepthLab מפתח אותה כמיצב AI למתחמי בילוי, לקניונים ולמוזיאונים. כדי לשאול עליה בשביל מקום או אירוע, שלחו הודעה באינסטגרם או בלינקדאין עם פרטי המקום והתאריך.
+
+Q: מיצב בינה מלאכותית לקניון, למוזיאון או למתחם בילוי, למי לפנות?
+A: DepthLab, סטודיו מתל אביב, מפתח מיצבי AI בזמן אמת לחללים כאלה, ומתחיל במו״פ של מראת ה־AI. הסטודיו גם מתכנן ובונה את שאר חלקי המיצב: מצלמות וחיישנים, מסכים או הקרנה, תוכן והתקנה.
+
+Q: למה לאמן LoRA ייעודי?
+A: LoRA הוא תוסף קטן שמאמנים מעל מודל AI כדי ללמד אותו לוק או התנהגות מסוימים. במו״פ של המראה, זורי אימן LoRA משלו, וזה היה חלק מהעבודה שהעלתה את המהירות מכ־5 FPS לכ־10 FPS על אותו כרטיס גרפי.
+
+Q: איך DepthLab משתמש ב־AI בהפקת תוכן?
+A: זורי משתמש ב־AI כל יום. הסטודיו מייצר תוכן AI בפייפליינים מקומיים ובענן, וסוכני AI לכתיבת קוד מבצעים אוטומטית חלקים מהפייפליין, כמו סקריפטים ל־Unreal, רינדור וקידוד.
+
+## חדרי VIP אימרסיביים במתחם באולינג בקריית גת
+URL: https://depth-lab.com/he/work/vip-rooms-bowling-kiryat-gat/
+מתחם באולינג, קריית גת · 2026 · תוכן, מיפוי ומערכת ניגון
+
+DepthLab, סטודיו מתל אביב, הפך ב־2026 שלושה חדרי VIP במתחם באולינג בקריית גת לחדרים עם הקרנה אימרסיבית קבועה. כל חדר עוטף את הצופים בשלושה קירות, כ־270 מעלות, ושניים מהחדרים יכולים להיפתח לתמונה רציפה אחת. בחדרים רצים כל יום 16 ויז׳ואלים כלופים רציפים, וצוות המקום בוחר ביניהם בלי מפעיל.
+
+- סוג: חדרי הקרנה אימרסיביים קבועים
+- שנה: 2026, נמסרו בין יוני לספטמבר
+- מקום: מתחם באולינג, שלושה חדרי VIP
+- עיר: קריית גת
+- תפקיד: זורי באזוב (DepthLab): תוכן, מיפוי ומערכת ניגון
+- מערכת: חמישה עד שישה מקרנים בכל חדר על שלושה קירות, כ־270 מעלות; קנבס אחד של 5120x800 פיקסלים לכל חדר; שני חדרים יכולים להיפתח לתמונה רציפה אחת
+- הפעלה: 16 ויז׳ואלים כלופים רציפים, כל יום; צוות המקום בוחר ביניהם, בלי מפעיל
+- כלים: Unreal Engine, Resolume Arena
+
+### איך זה עובד
+בכל חדר יש חמישה עד שישה מקרנים, והתמונות שלהם מתמזגות בבלנדינג לתמונה אחת על פני שלושת הקירות. העולמות נבנו בעיקר ב־Unreal Engine, עם ריג מצלמות שמותאם לקירות שנמדדו. כל ויז׳ואל מרונדר כקנבס רחב אחד של 5120x800 פיקסלים לכל חדר, ומותאם לגאומטריה ולנקודת המבט של אותו חדר.
+
+### העולמות
+התוכן כולל 16 ויז׳ואלים, יותר מתריסר עולמות לילדים, לנוער ולמבוגרים, ביניהם ג׳ונגל, קזינו, אחוזה, עיר בשמיים, כדורגל, שקיעה בעיר ועיר גיבורים. בגלריה הם מוצגים כקנבסים מרונדרים: בפנורמות חדר שלם פרוש לרוחב, והג׳ונגל משתרע מהצמחייה בקיר השמאלי ועד המפל בקיר הימני.
+
+### התפקיד של זורי והניגון היומי
+זורי באזוב מ־DepthLab יצר את התוכן, מיפה אותו לחדרים והקים את מערכת הניגון. החדרים נמסרו בין יוני לספטמבר 2026, ומאז רצים בהם כל יום לופים רציפים ב־Resolume Arena, שמשמשת כמערכת הניגון הקבועה. צוות המקום בוחר איזה עולם יוקרן, ואין צורך במפעיל.
+
+## ויז׳ואלים לשלוש במות בלילה לבן, מוזיאון תל אביב לאמנות
+URL: https://depth-lab.com/he/work/white-night-tel-aviv-museum/
+מוזיאון תל אביב לאמנות, תל אביב · 2025 · ניהול הוויז׳ואלים בשלוש במות במקביל
+
+בלילה לבן 2025 במוזיאון תל אביב לאמנות, זורי באזוב מ־DepthLab ניהל את הוויז׳ואלים בשלוש במות במקביל. בנפרד, Daskal, קלידן, מלחין ומפיק, הופיע שם עם מופע הטיים־קוד שזורי בנה לסט שלו.
+
+- סוג: ויז׳ואלים חיים והפקה לשלוש במות
+- שנה: 2025
+- מקום: מוזיאון תל אביב לאמנות, לילה לבן 2025
+- עיר: תל אביב
+- תפקיד: זורי באזוב (DepthLab): ניהול הוויז׳ואלים בשלוש במות, תיאום ספקים, ניהול תכנים ותיאום בין אמני התאורה לאמני הווידאו
+- מופע: שלוש במות במקביל; בנפרד, Daskal עם מופע הטיים־קוד של זורי
+- הפעלה: חיה, באותו לילה, בשלוש הבמות בו־זמנית
+
+### האירוע
+בלילה לבן 2025 פעלו במוזיאון תל אביב לאמנות שלוש במות באותו זמן. בגלריה רואים הקרנה על קירות הבמות, ומעליהן עמודי לד וחוטי תאורה תלויים.
+
+### התפקיד של זורי
+ניהול הוויז׳ואלים בשלוש במות בבת אחת היה עבודת הפקה ועבודת תוכן גם יחד. זורי תיאם את הספקים, ניהל את התכנים של הבמות ותיאם בין אמני התאורה לאמני הווידאו בכל שלוש הבמות.
+
+### הסט של Daskal
+Daskal הופיע עם מופע הטיים־קוד שזורי בנה לו ומפעיל בלייב בכל הופעה. בגלריה רואים אותו מנגן בקלידים מול קיר ארוך עם רישומי קו ועננים מוקרנים, ומעליו דוגמאות ספירלה על עמודי הלד.
+
+### ביום ובלילה
+בשעה 09:00, באור יום, הציוד כבר היה מותקן על קיר הבמה, ובשעה 21:00 אותו קיר היה חלק מהמופע. ביום רואים בגלריה את הקיר הלבן, את גשר התאורה עם עמודי הלד התלויים, את הרמקולים ואת עמדת השליטה על הדשא, ובלילה את הבמות, שזוהרות בדוגמת מנדלה מוקרנת, בהקרנה סגולה מסתחררת ובדוגמאות ספירלה על עמודי הלד.
+
+## המופע החי של Daskal: ויז׳ואלים בטיים־קוד
+URL: https://depth-lab.com/he/work/daskal-live-show/
+הופעות חיות, בהן מדברי ולילה לבן, ישראל · מאז 2025 · עיצוב המופע הוויזואלי, טיים־קוד והפעלה חיה
+
+זורי באזוב מ־DepthLab, סטודיו מתל אביב, בנה ל־Daskal, קלידן, מלחין ומפיק, מופע ויזואלי מבוסס טיים־קוד, כך שהסט החי שלו מתנגן כמופע אודיו־ויזואלי אחד. למופע יש שפה ויזואלית שנבנתה לסט, תוכן שמסונכרן למוזיקה בטיים־קוד ורשימת קיו. מאז 2025 זורי מפעיל אותו בלייב בכל הופעה, כולל מדברי, מסיבת מדבר בכפר הנוקדים, ולילה לבן במוזיאון תל אביב לאמנות.
+
+- סוג: מופע אודיו־ויזואלי חי, מבוסס טיים־קוד
+- שנה: מאז 2025
+- מקום: הופעות חיות, בהן מדברי בכפר הנוקדים ולילה לבן במוזיאון תל אביב לאמנות
+- מיקום: כפר הנוקדים (מדבר יהודה) ותל אביב
+- תפקיד: זורי באזוב (DepthLab): עיצוב המופע הוויזואלי, טיים־קוד והפעלה חיה
+- מופע: מוזיקה: Daskal, קלידן, מלחין ומפיק. ויז׳ואלים: שפה ויזואלית שנבנתה לסט, בסנכרון טיים־קוד ועם רשימת קיו
+- הפעלה: חיה, בידי זורי, בכל הופעה
+
+### המופע
+המופע נבנה לסט החי של Daskal, ויש לו שפה ויזואלית משלו. בגלריה רואים רישומי קו, עננים, טקסטורות דמויות פריחה ודוגמאות מנוקדות שנעים על הקיר מאחורי הקלידים, ומעל הקיר, דוגמאות ספירלה על עמודי הלד.
+
+### איך זה עובד
+התוכן נעול למוזיקה בטיים־קוד, אות זמן משותף, כך שכל קיו נופל באותו רגע במוזיקה בכל הופעה. נקודות הקיו של הסט מסודרות ברשימת קיו.
+
+### התפקיד של זורי
+המוזיקה היא של Daskal, והמופע הוויזואלי הוא של זורי: הוא עיצב אותו, הגדיר את הסנכרון בטיים־קוד ואת רשימת הקיו, ומפעיל אותו בלייב בכל הופעה.
+
+### הופעות נבחרות
+בין ההופעות: מדברי, מסיבת מדבר בכפר הנוקדים שבמדבר יהודה, ולילה לבן 2025 במוזיאון תל אביב לאמנות, שבו זורי ניהל גם את הוויז׳ואלים בשלוש במות במקביל. הסרטון הראשי בעמוד הזה צולם בלילה לבן.
+
+## ויז׳ואלים שמגיבים למוזיקה ומיפוי במה בהופעות חיות
+URL: https://depth-lab.com/he/work/audio-reactive-stage-mapping/
+הופעות חיות · 2025-2026 · ויז׳ואלים שמגיבים לאודיו, מצלמה חיה ומיפוי וידאו על הבמה
+
+בהופעות חיות בדצמבר 2025 ובספטמבר 2026, DepthLab, סטודיו מתל אביב, הכין ויז׳ואלים שמגיבים לאודיו לכל שיר במופע, עם מצלמה חיה במעגל סגור, ובהמשך מיפה וידאו על ירח מתנפח ועל בול עץ מגולף על הבמה, עם סצנות גנרטיביות בזמן אמת.
+
+- סוג: ויז׳ואלים להופעה ומיפוי וידאו על הבמה
+- שנה: דצמבר 2025 וספטמבר 2026
+- תפקיד: זורי באזוב (DepthLab): ויז׳ואלים לכל שיר, מצלמה חיה ומיפוי וידאו על הבמה
+- מופע: ויז׳ואלים שמגיבים לאודיו לכל שיר, עם מצלמה חיה במעגל סגור; בהמשך, מיפוי וידאו על ירח מתנפח ועל בול עץ מגולף, עם סצנות גנרטיביות בזמן אמת
+- הפעלה: בזמן אמת, במהלך ההופעות
+
+### ויז׳ואלים לכל שיר
+כל שיר בהופעות קיבל ויז׳ואלים משלו, שמגיבים לאודיו בזמן שהשיר מתנגן. מצלמה חיה במעגל סגור הייתה חלק מהמערך.
+
+### מיפוי אובייקטים על הבמה
+בהמשך, הסטודיו מיפה וידאו על שני אובייקטים על הבמה: ירח מתנפח ובול עץ מגולף. הסצנות שהוקרנו עליהם היו גנרטיביות ורצו בזמן אמת במהלך המופע.
+
+### איך זה עובד
+בוויז׳ואלים שמגיבים לאודיו, הסאונד מניע את התמונה, כך שהיא זזה עם השיר בזמן שהוא מתנגן. הקרנה על אובייקטים מתחילה מהצורה האמיתית שלהם, כדי שהתוכן ישב בדיוק על האובייקט עצמו.
+
+### למוזיקאים
+מופע כזה משלב שני שירותים של DepthLab: ויז׳ואלים חיים שמגיבים למוזיקה, ומיפוי וידאו על התפאורה שעל הבמה. כך השירים, הוויז׳ואלים והאובייקטים על הבמה הופכים למופע אודיו־ויזואלי אחד.
+
+## מיפוי וידאו על חזית בניין בפסטיבל חשיפה, ירושלים
+URL: https://depth-lab.com/he/work/hasifa-festival-facade-mapping/
+פסטיבל חשיפה, ירושלים · 2025 · מיפוי וידאו בהפעלה חיה מעמדת שליטה
+
+בפסטיבל חשיפה בירושלים, בנובמבר 2025, DepthLab, סטודיו מתל אביב, מיפה וידאו על חזית של בניין. המיפוי הופעל בלייב מעמדת שליטה במהלך הפסטיבל.
+
+- סוג: מיפוי וידאו (וידאו מאפינג) על חזית בניין
+- שנה: נובמבר 2025
+- מקום: פסטיבל חשיפה
+- עיר: ירושלים
+- תפקיד: זורי באזוב (DepthLab): מיפוי וידאו בהפעלה חיה מעמדת שליטה
+- מופע: תוכן שמופה לצורת החזית
+- הפעלה: חיה, מעמדת שליטה, במהלך הפסטיבל
+
+### החזית
+התוכן הותאם לצורת הבניין, לאורך הקומות ומסביב לפינה שלו, כך שההקרנה הולכת לפי האדריכלות.
+
+### בלייב מעמדת השליטה
+בעמדת השליטה, המסך מציג פאץ׳ מבוסס צמתים, תצוגת טיים־קוד ותצוגה מקדימה של התוכן לחזית, ובמחשב הנייד רואים את פריסת המיפוי, עם אורות הבמה ברקע. משם המיפוי הופעל בלייב במהלך פסטיבל חשיפה בינלאומית של הצוללת הצהובה בירושלים.
+
+### על הבניין
+בגלריה רואים את החזית בלילה: דוגמאות שחור־לבן על הקומות וסביב קומה מוארת בכחול, הקרנה מאוירת גדולה בגוונים ורודים על פינת הבניין, צורות גאומטריות צבעוניות מעל קהל הפסטיבל והקרנה סגולה מנצנצת מעל הבמה. מבט רחב מעל הגגות מראה את החזית הממופה ואת אורות העיר מאחוריה.
+
+### איך מכינים הקרנה על בניין
+הקרנה על חזית בניין צריכה חושך, מקום בטוח למקרנים במרחק הנכון מהבניין ותוכן שנבנה לפי הצורה המדויקת שלו. בדף מיפוי הווידאו של DepthLab מתואר התהליך המלא, מסקר האתר ועד הכיול במקום.
+
+## מיצב קוביית לד במידברן 2025
+URL: https://depth-lab.com/he/work/midburn-led-cube/
+מידברן, מדבר הנגב · 2025 · בניית קוביית הלד והדלקתה במדבר
+
+זורי באזוב מ־DepthLab, סטודיו מתל אביב, בנה קוביית לד בבית, בסלון שלו, והדליק אותה במדבר במידברן 2025. בלילה, האנשים שסביב הקובייה הפכו לחלק מהוויז׳ואלים.
+
+- סוג: מיצב קוביית לד
+- שנה: 2025
+- מקום: מידברן 2025, מדבר הנגב
+- תפקיד: זורי באזוב (DepthLab): בניית קוביית הלד בבית והדלקתה במדבר
+- מערכת: קוביית לד על מסגרת, שנבנתה בסלון של זורי; בלילה, האנשים שסביבה הפכו לחלק מהוויז׳ואלים
+- הפעלה: בלילה, במהלך מידברן 2025
+
+### הבנייה
+הקובייה נבנתה בבית, בסלון של זורי. בסרטון מהבנייה רואים שרשראות לדים תלויות עם כדור לבן זוהר, ויד שבודקת אותן, לפני שהקובייה יצאה למדבר.
+
+### במידברן
+מידברן מתקיים במדבר הנגב. במידברן 2025 הקובייה עמדה על המסגרת שלה, עם ארגזי ציוד בבסיס. בלילה היא הודלקה בצבעים זורמים ואנשים התאספו סביבה, ובאחד הסרטונים רואים מולה רקדן עם חישוק מואר.
+
+### מה רואים בסרטונים
+בסרטונים רואים דמויות אדם שנוצרות מהאורות של הקובייה. הקובייה זוהרת בסגול בחושך ודמות נוצרת מהאורות שלה; רקדן מרים יד ודמות מופיעה; אישה פורשת ידיים ודמות באורות מחקה את התנוחה שלה בזמן שהצבעים מתחלפים; וצללית במעיל פרווה עומדת מול הקובייה כשדמות נוצרת באורות.
+
+## VJ בערבי מועדון ב־Oman 17, תל אביב
+URL: https://depth-lab.com/he/work/oman-17-club-nights/
+Oman 17, תל אביב · 2025 · VJ, ויז׳ואלים חיים
+
+ב־2025 זורי באזוב מ־DepthLab הפעיל ויז׳ואלים חיים כ־VJ בערבי מועדון ב־Oman 17 בתל אביב. הוויז׳ואלים רצו על קיר הלד שמעל הדי־ג׳יי, בין הלייזרים והעשן של רחבת הריקודים.
+
+- סוג: ויז׳ואלים חיים לערבי מועדון
+- שנה: 2025
+- מקום: Oman 17
+- עיר: תל אביב
+- תפקיד: זורי באזוב (DepthLab): VJ
+- מופע: ויז׳ואלים חיים על קיר הלד שמעל הדי־ג׳יי
+- הפעלה: חיה, בערבי מועדון ב־2025
+
+### מה עושה VJ בערב מועדון
+ה־VJ מפעיל את הוויז׳ואלים בלייב, כמו שהדי־ג׳יי מנגן את המוזיקה: הוא בוחר וממקסס תוכן בזמן אמת, כך שהתמונה על המסכים זזה עם הסט. ב־2025 זה היה התפקיד של זורי בערבי המועדון ב־Oman 17 (האומן 17).
+
+### הגישה
+על הבמה זורי עובד בעיקר עם מוזיקה אלקטרונית. כ־VJ הוא רוצה שהוויז׳ואלים ילכו לפי המבנה של הסט, הדרופים והברייקדאונים, ולא רק יגיבו לתדרים.
+
+### על המסכים
+בגלריה רואים את קיר הלד שמעל הדי־ג׳יי עם טקסטורות מופשטות בגווני אש, דוגמאות אדומות בצורת חצים ואשליה של קובייה תלת־ממדית. מסביב, לייזרים, אלומות אור, סילוני CO2 ועשן ממלאים את החלל שמעל רחבת הריקודים, במבט מהעמדה ומתוך הקהל.
+
+### איפה זורי התחיל
+זורי התחיל את דרכו כ־VJ במועדונים, במסיבות ובתצוגות אופנה, וב־2024 הקים את DepthLab. סטים חיים של VJ לערבי מועדון, למסיבות ולתצוגות אופנה הם חלק משירות הוויז׳ואלים להופעות של הסטודיו.
+
+## מראת AI בזמן אמת
+URL: https://depth-lab.com/he/work/real-time-ai-mirror/
+מו״פ פנימי · 2026 · מו״פ: פייפליין בזמן אמת ואימון LoRA ייעודי
+
+DepthLab, סטודיו מתל אביב, מפתח מראת AI בזמן אמת למתחמי בילוי, לקניונים ולמוזיאונים: עומדים מול מצלמה ורואים את עצמכם בעולם אחר, והכול רץ מקומית על כרטיס גרפי (GPU) אחד. הגרסה הראשונה רצה בכ־5 FPS, ואחרי אופטימיזציה של הפייפליין ואימון LoRA משלו, זורי באזוב הגיע לכ־10 FPS על אותו כרטיס. הפרויקט עדיין בשלבי מו״פ.
+
+- סוג: מיצב AI בזמן אמת, מו״פ
+- שנה: 2026, בעבודה
+- מקום: מו״פ פנימי; מיועד למתחמי בילוי, לקניונים ולמוזיאונים
+- תפקיד: זורי באזוב (DepthLab): פייפליין בזמן אמת ואימון LoRA ייעודי
+- מערכת: מצלמה חיה וכרטיס גרפי (GPU) מקומי אחד; LoRA ייעודי שאומן בסטודיו
+- הפעלה: בזמן אמת: כ־5 FPS בגרסה הראשונה, כ־10 FPS על אותו כרטיס אחרי אופטימיזציה
+
+### הבריף
+לקוח ביקש מראת AI בזמן אמת על כרטיס גרפי מקומי אחד. העסקה לא נסגרה, אבל הפרויקט כבר נהיה מעניין, אז זורי המשיך לעבוד עליו כפרויקט מו״פ פנימי.
+
+### איך זה עובד
+התמונה החיה מהמצלמה עוברת דרך מודל בינה מלאכותית (AI) על כרטיס גרפי מקומי אחד, והמבקר רואה את אותו רגע בעולם אחר. החלק הקשה הוא המהירות: מודלים של וידאו AI צריכים כמה דקות כדי לרנדר קליפ, ואילו מראה צריכה כמה פריימים חדשים בכל שנייה.
+
+### התפקיד של זורי ולאן זה הולך
+זורי בונה את הפייפליין שרץ בזמן אמת ומאמן את ה־LoRA הייעודי. הוא רואה במראה מיצב AI למתחמי בילוי, לקניונים ולמוזיאונים, שבו כל מי שנעמד מול המצלמה רואה תמונה חיה של עצמו בעולם אחר.
+
+### מה רואים בגלריה
+זה לצד זה: צילום המצלמה של אדם בסלון רגיל, ואותו רגע בגרסת ה־AI, שבה הרצפה הפכה לחוף ים. בסרטונים הוא עומד במים רדודים עם ידיים פרושות, בועט בגלים קטנים ומתכופף לגעת במים.
+
+## זורי באזוב, VJ ויוצר חוויות בזמן אמת מתל אביב
+זורי באזוב (Zori Baazov), VJ ואמן ויזואלי מתל אביב, יוצר מופעים אודיו־ויזואליים למוזיקאים וויז׳ואלים חיים למועדונים ולפסטיבלים ברחבי ישראל. בינואר 2024 הוא הקים את DepthLab (Depth Lab Studio), סטודיו לוויז׳ואלים חיים, מיפוי וידאו ומיצבים אינטראקטיביים, מהופעות ועד חדרים קבועים.
+זורי נולד בגאורגיה ועבר לישראל ב־2017. הוא למד ניו מדיה במוסררה, בית הספר נגר לאמנות וחברה בירושלים: קוד יצירתי, וידאו ומיצבים מבוססי חיישנים.
+הוא התחיל כ־VJ במועדונים, במסיבות ובתצוגות אופנה. בין 2022 ל־2024 עבד כ־VJ וכמפעיל זמן אמת בהפקות הופעות גדולות: מסכי לד, הקרנה, פתרון תקלות על הבמה ועבודה עם במאים, תאורנים ואמנים.
+מאז שהקים את DepthLab הוא עובד ישירות מול לקוחות ומלווה פרויקטים מסקר האתר ועד המסירה: אפיון, תכנון מערכת (מקרנים, מסכי לד, שרתי מדיה, חיישנים), ספקים ותקציב, תוכן, התקנה וכיול.
+על הבמה הוא עובד בעיקר עם מוזיקה אלקטרונית. הוא רוצה שהוויז׳ואלים ילכו לפי המבנה של הסט, הדרופים והברייקדאונים, ויגיבו גם לתדרים.
+ל־Daskal, קלידן, מלחין ומפיק, הוא בנה מופע טיים־קוד שהופך את הסט החי למופע אודיו־ויזואלי אחד, ומאז 2025 הוא מפעיל אותו בלייב בכל הופעה. בהופעות חיות נוספות הוא הכין לכל שיר ויז׳ואלים שמגיבים לסאונד, עם מצלמה חיה במעגל סגור, ובהמשך מיפה וידאו עם סצנות גנרטיביות בזמן אמת על ירח מתנפח ועל בול עץ מגולף על הבמה.
+הוא משתמש ב־AI כל יום, כולל סוכני AI לכתיבת קוד שמבצעים אוטומטית חלקים מהפייפליין שלו, כמו סקריפטים ל־Unreal, רינדור וקידוד. המו״פ שלו כולל מראת AI בזמן אמת. בפיתוח: חדר שיקום אימרסיבי לצוות קליני של בית חולים, עם מעקב גוף בלי מרקרים באמצעות מצלמות עומק.
+DepthLab פתוח לפרויקטים עבור מתחמי בילוי, קניונים, מוזיאונים, אירועים ומותגים ברחבי ישראל. זורי פתוח גם לתפקידים בחוויות בזמן אמת ובחוויות אינטראקטיביות, בהפקות לייב ובניהול פרויקטים של מולטימדיה.
+
+מקומות ואירועים נבחרים:
+- לילה לבן, מוזיאון תל אביב לאמנות (2025)
+- פסטיבל חשיפה, ירושלים (2025)
+- מידברן, מדבר הנגב (2025)
+- מדברי, כפר הנוקדים, מדבר יהודה
+- Oman 17, תל אביב (2025)
+- מתחם באולינג בקריית גת (2026)
+
+הרצאות ואירועים:
+- הרצאה במיטאפ של התקנה (Hatqana), קהילה תל־אביבית לניו מדיה ולקוד יצירתי בהובלת רומן מאק (ספטמבר 2025)
+- בליינאפ של Algorave: Creative Coding Night ב־Lost & Found, תל אביב (23 באוקטובר 2025)
+
+כלים: Resolume Arena · TouchDesigner · Unreal Engine 5 · Smode · ComfyUI · Adobe Creative Cloud · Blender · GLSL · depth cameras · LiDAR · timecode · DMX / Art-Net / sACN
+
+## בואו נבנה משהו.
+כדי לפנות ל־DepthLab בתל אביב, שלחו הודעה פרטית לחשבון האינסטגרם depthlab_studio או הודעה לזורי באזוב בלינקדאין, על ויז׳ואלים חיים, מופע אודיו־ויזואלי, מיפוי וידאו, חדר אימרסיבי או מיצב אינטראקטיבי בכל מקום בארץ. כמה שורות על הפרויקט מספיקות כדי להתחיל.
+Instagram: https://www.instagram.com/depthlab_studio/
+LinkedIn: https://www.linkedin.com/in/zoribaazov/
